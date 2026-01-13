@@ -1,15 +1,6 @@
 [
   {
     "type": "compound",
-    "name": "Methanol",
-    "formula": "CH3OH",
-    "molecular_weight": 32.04,
-    "boiling_point_c": 64.7,
-    "density_kg_m3": 792,
-    "cas_number": "67-56-1"
-  },
-  {
-    "type": "compound",
     "name": "Acetone",
     "formula": "C3H6O",
     "molecular_weight": 58.08,

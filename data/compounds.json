@@ -7,5 +7,14 @@
     "density_kg_m3": 789,
     "cas_number": "64-17-5",
     "date_added": "2026-01-13"
+  },
+  {
+    "name": "Methanol",
+    "formula": "CH3OH",
+    "molecular_weight": 32.04,
+    "boiling_point_c": 64.7,
+    "density_kg_m3": 792,
+    "cas_number": "67-56-1",
+    "date_added": "2026-01-13"
   }
 ]
