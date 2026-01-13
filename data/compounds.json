@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "Ethanol",
+    "formula": "C2H5OH",
+    "molecular_weight": 46.07,
+    "boiling_point_c": 78.37,
+    "density_kg_m3": 789,
+    "cas_number": "64-17-5",
+    "date_added": "2026-01-13"
+  }
+]
