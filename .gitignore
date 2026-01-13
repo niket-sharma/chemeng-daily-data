@@ -16,10 +16,19 @@ ENV/
 *.swo
 *~
 
+# Claude Code
+.claude/
+.claude-code/
+
 # OS
 .DS_Store
 Thumbs.db
 
 # Temporary files
 *.tmp
-*.log
+
+# Development documentation
+Chem data project instructions.md
+
+# Git
+.git/
