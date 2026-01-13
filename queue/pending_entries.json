@@ -1,15 +1,6 @@
 [
   {
     "type": "compound",
-    "name": "Acetone",
-    "formula": "C3H6O",
-    "molecular_weight": 58.08,
-    "boiling_point_c": 56.05,
-    "density_kg_m3": 784,
-    "cas_number": "67-64-1"
-  },
-  {
-    "type": "compound",
     "name": "Benzene",
     "formula": "C6H6",
     "molecular_weight": 78.11,

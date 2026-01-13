@@ -16,5 +16,14 @@
     "density_kg_m3": 792,
     "cas_number": "67-56-1",
     "date_added": "2026-01-13"
+  },
+  {
+    "name": "Acetone",
+    "formula": "C3H6O",
+    "molecular_weight": 58.08,
+    "boiling_point_c": 56.05,
+    "density_kg_m3": 784,
+    "cas_number": "67-64-1",
+    "date_added": "2026-01-13"
   }
 ]
