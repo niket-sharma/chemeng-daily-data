@@ -36,7 +36,7 @@ from data.experiment_constants import *
 
 - Started: 2026-01-12
 - Total entries: Check [logs/update_log.md](logs/update_log.md)
-- Current queue size: 50 entries (expandable)
+- Current queue size: 300 entries (enough for ~10 months of daily updates!)
 
 ## Adding More Entries
 

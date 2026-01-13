@@ -400,5 +400,2105 @@
     "value": "1.81e-5",
     "units": "Pa\u00b7s",
     "context": "Dynamic viscosity of air at 20\u00b0C"
+  },
+  {
+    "type": "compound",
+    "name": "Propanol",
+    "formula": "C3H7OH",
+    "molecular_weight": 60.1,
+    "boiling_point_c": 97.2,
+    "density_kg_m3": 804,
+    "cas_number": "71-23-8"
+  },
+  {
+    "type": "compound",
+    "name": "Butanol",
+    "formula": "C4H9OH",
+    "molecular_weight": 74.12,
+    "boiling_point_c": 117.7,
+    "density_kg_m3": 810,
+    "cas_number": "71-36-3"
+  },
+  {
+    "type": "compound",
+    "name": "Isopropanol",
+    "formula": "C3H8O",
+    "molecular_weight": 60.1,
+    "boiling_point_c": 82.6,
+    "density_kg_m3": 786,
+    "cas_number": "67-63-0"
+  },
+  {
+    "type": "compound",
+    "name": "Cyclohexane",
+    "formula": "C6H12",
+    "molecular_weight": 84.16,
+    "boiling_point_c": 80.74,
+    "density_kg_m3": 779,
+    "cas_number": "110-82-7"
+  },
+  {
+    "type": "compound",
+    "name": "Xylene",
+    "formula": "C8H10",
+    "molecular_weight": 106.17,
+    "boiling_point_c": 144.5,
+    "density_kg_m3": 870,
+    "cas_number": "1330-20-7"
+  },
+  {
+    "type": "compound",
+    "name": "Ethylbenzene",
+    "formula": "C8H10",
+    "molecular_weight": 106.17,
+    "boiling_point_c": 136.2,
+    "density_kg_m3": 867,
+    "cas_number": "100-41-4"
+  },
+  {
+    "type": "compound",
+    "name": "Cumene",
+    "formula": "C9H12",
+    "molecular_weight": 120.19,
+    "boiling_point_c": 152.4,
+    "density_kg_m3": 862,
+    "cas_number": "98-82-8"
+  },
+  {
+    "type": "compound",
+    "name": "Naphthalene",
+    "formula": "C10H8",
+    "molecular_weight": 128.17,
+    "boiling_point_c": 218,
+    "density_kg_m3": 1140,
+    "cas_number": "91-20-3"
+  },
+  {
+    "type": "compound",
+    "name": "Pyridine",
+    "formula": "C5H5N",
+    "molecular_weight": 79.1,
+    "boiling_point_c": 115.2,
+    "density_kg_m3": 982,
+    "cas_number": "110-86-1"
+  },
+  {
+    "type": "compound",
+    "name": "Furan",
+    "formula": "C4H4O",
+    "molecular_weight": 68.07,
+    "boiling_point_c": 31.4,
+    "density_kg_m3": 1421,
+    "cas_number": "110-00-9"
+  },
+  {
+    "type": "compound",
+    "name": "Tetrahydrofuran",
+    "formula": "C4H8O",
+    "molecular_weight": 72.11,
+    "boiling_point_c": 66,
+    "density_kg_m3": 889,
+    "cas_number": "109-99-9"
+  },
+  {
+    "type": "compound",
+    "name": "Methyl Ethyl Ketone",
+    "formula": "C4H8O",
+    "molecular_weight": 72.11,
+    "boiling_point_c": 79.64,
+    "density_kg_m3": 805,
+    "cas_number": "78-93-3"
+  },
+  {
+    "type": "compound",
+    "name": "Acetonitrile",
+    "formula": "C2H3N",
+    "molecular_weight": 41.05,
+    "boiling_point_c": 81.6,
+    "density_kg_m3": 786,
+    "cas_number": "75-05-8"
+  },
+  {
+    "type": "compound",
+    "name": "Dimethylformamide",
+    "formula": "C3H7NO",
+    "molecular_weight": 73.09,
+    "boiling_point_c": 153,
+    "density_kg_m3": 944,
+    "cas_number": "68-12-2"
+  },
+  {
+    "type": "compound",
+    "name": "Dimethyl Sulfoxide",
+    "formula": "C2H6OS",
+    "molecular_weight": 78.13,
+    "boiling_point_c": 189,
+    "density_kg_m3": 1100,
+    "cas_number": "67-68-5"
+  },
+  {
+    "type": "compound",
+    "name": "Carbon Disulfide",
+    "formula": "CS2",
+    "molecular_weight": 76.14,
+    "boiling_point_c": 46.2,
+    "density_kg_m3": 1263,
+    "cas_number": "75-15-0"
+  },
+  {
+    "type": "compound",
+    "name": "Nitrobenzene",
+    "formula": "C6H5NO2",
+    "molecular_weight": 123.11,
+    "boiling_point_c": 210.9,
+    "density_kg_m3": 1204,
+    "cas_number": "98-95-3"
+  },
+  {
+    "type": "compound",
+    "name": "Glycerol",
+    "formula": "C3H8O3",
+    "molecular_weight": 92.09,
+    "boiling_point_c": 290,
+    "density_kg_m3": 1261,
+    "cas_number": "56-81-5"
+  },
+  {
+    "type": "compound",
+    "name": "Acrylic Acid",
+    "formula": "C3H4O2",
+    "molecular_weight": 72.06,
+    "boiling_point_c": 141,
+    "density_kg_m3": 1051,
+    "cas_number": "79-10-7"
+  },
+  {
+    "type": "compound",
+    "name": "Maleic Anhydride",
+    "formula": "C4H2O3",
+    "molecular_weight": 98.06,
+    "boiling_point_c": 202,
+    "density_kg_m3": 1480,
+    "cas_number": "108-31-6"
+  },
+  {
+    "type": "correlation",
+    "name": "Reynolds Number",
+    "description": "Dimensionless number for flow regime",
+    "equation": "Re = \u03c1*v*D/\u03bc",
+    "variables": "\u03c1, v, D, \u03bc",
+    "source": "Reynolds (1883)"
+  },
+  {
+    "type": "correlation",
+    "name": "Prandtl Number",
+    "description": "Ratio of momentum to thermal diffusivity",
+    "equation": "Pr = Cp*\u03bc/k",
+    "variables": "Cp, \u03bc, k",
+    "source": "Prandtl"
+  },
+  {
+    "type": "correlation",
+    "name": "Schmidt Number",
+    "description": "Ratio of momentum to mass diffusivity",
+    "equation": "Sc = \u03bc/(\u03c1*D)",
+    "variables": "\u03bc, \u03c1, D",
+    "source": "Schmidt"
+  },
+  {
+    "type": "correlation",
+    "name": "Sherwood Number",
+    "description": "Dimensionless mass transfer coefficient",
+    "equation": "Sh = k_L*L/D",
+    "variables": "k_L, L, D",
+    "source": "Sherwood"
+  },
+  {
+    "type": "correlation",
+    "name": "Grashof Number",
+    "description": "Natural convection characterization",
+    "equation": "Gr = g*\u03b2*\u0394T*L\u00b3/\u03bd\u00b2",
+    "variables": "g, \u03b2, \u0394T, L, \u03bd",
+    "source": "Grashof"
+  },
+  {
+    "type": "correlation",
+    "name": "Rayleigh Number",
+    "description": "Natural convection parameter",
+    "equation": "Ra = Gr*Pr",
+    "variables": "Gr, Pr",
+    "source": "Rayleigh"
+  },
+  {
+    "type": "correlation",
+    "name": "Peclet Number",
+    "description": "Heat transfer by advection to conduction",
+    "equation": "Pe = Re*Pr",
+    "variables": "Re, Pr",
+    "source": "Peclet"
+  },
+  {
+    "type": "correlation",
+    "name": "Biot Number",
+    "description": "Internal vs external heat transfer resistance",
+    "equation": "Bi = h*L/k",
+    "variables": "h, L, k",
+    "source": "Biot"
+  },
+  {
+    "type": "correlation",
+    "name": "Fourier Number",
+    "description": "Dimensionless time for heat conduction",
+    "equation": "Fo = \u03b1*t/L\u00b2",
+    "variables": "\u03b1, t, L",
+    "source": "Fourier"
+  },
+  {
+    "type": "correlation",
+    "name": "Damkohler Number",
+    "description": "Reaction rate to transport rate",
+    "equation": "Da = k*\u03c4",
+    "variables": "k, \u03c4",
+    "source": "Damk\u00f6hler"
+  },
+  {
+    "type": "correlation",
+    "name": "Weber Number",
+    "description": "Inertial to surface tension forces",
+    "equation": "We = \u03c1*v\u00b2*L/\u03c3",
+    "variables": "\u03c1, v, L, \u03c3",
+    "source": "Weber"
+  },
+  {
+    "type": "correlation",
+    "name": "Froude Number",
+    "description": "Inertial to gravitational forces",
+    "equation": "Fr = v/(g*L)^0.5",
+    "variables": "v, g, L",
+    "source": "Froude"
+  },
+  {
+    "type": "correlation",
+    "name": "Mach Number",
+    "description": "Velocity to speed of sound ratio",
+    "equation": "Ma = v/c",
+    "variables": "v, c",
+    "source": "Mach"
+  },
+  {
+    "type": "correlation",
+    "name": "Knudsen Number",
+    "description": "Mean free path to characteristic length",
+    "equation": "Kn = \u03bb/L",
+    "variables": "\u03bb, L",
+    "source": "Knudsen"
+  },
+  {
+    "type": "correlation",
+    "name": "Lewis Number",
+    "description": "Thermal to mass diffusivity ratio",
+    "equation": "Le = \u03b1/D = Sc/Pr",
+    "variables": "\u03b1, D, Sc, Pr",
+    "source": "Lewis"
+  },
+  {
+    "type": "constant",
+    "name": "Water Viscosity at 20C",
+    "symbol": "\u03bc_water_20",
+    "value": "1.002e-3",
+    "units": "Pa\u00b7s",
+    "context": "Dynamic viscosity of water at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Water Thermal Conductivity",
+    "symbol": "k_water",
+    "value": "0.598",
+    "units": "W/(m\u00b7K)",
+    "context": "Thermal conductivity of water at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Air Thermal Conductivity",
+    "symbol": "k_air",
+    "value": "0.0257",
+    "units": "W/(m\u00b7K)",
+    "context": "Thermal conductivity of air at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Air Specific Heat",
+    "symbol": "Cp_air",
+    "value": "1.005",
+    "units": "kJ/(kg\u00b7K)",
+    "context": "Specific heat capacity of air at constant pressure"
+  },
+  {
+    "type": "constant",
+    "name": "Steam Heat of Vaporization",
+    "symbol": "\u0394H_vap_steam",
+    "value": "2257",
+    "units": "kJ/kg",
+    "context": "Latent heat of steam at 100\u00b0C and 1 atm"
+  },
+  {
+    "type": "constant",
+    "name": "Ice Heat of Fusion",
+    "symbol": "\u0394H_fus_ice",
+    "value": "334",
+    "units": "kJ/kg",
+    "context": "Latent heat of fusion for ice at 0\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Atmospheric Pressure at Sea Level",
+    "symbol": "P_atm",
+    "value": "101.325",
+    "units": "kPa",
+    "context": "Standard atmospheric pressure"
+  },
+  {
+    "type": "constant",
+    "name": "Triple Point of Water",
+    "symbol": "T_triple_H2O",
+    "value": "273.16",
+    "units": "K",
+    "context": "Triple point temperature of water"
+  },
+  {
+    "type": "constant",
+    "name": "Critical Temperature of Water",
+    "symbol": "T_c_H2O",
+    "value": "647.1",
+    "units": "K",
+    "context": "Critical temperature of water"
+  },
+  {
+    "type": "constant",
+    "name": "Critical Pressure of Water",
+    "symbol": "P_c_H2O",
+    "value": "22.064",
+    "units": "MPa",
+    "context": "Critical pressure of water"
+  },
+  {
+    "type": "constant",
+    "name": "Molar Volume at STP",
+    "symbol": "V_m_STP",
+    "value": "22.414",
+    "units": "L/mol",
+    "context": "Molar volume of ideal gas at STP"
+  },
+  {
+    "type": "constant",
+    "name": "Electron Charge",
+    "symbol": "e",
+    "value": "1.602e-19",
+    "units": "C",
+    "context": "Elementary charge"
+  },
+  {
+    "type": "constant",
+    "name": "Permittivity of Free Space",
+    "symbol": "\u03b5_0",
+    "value": "8.854e-12",
+    "units": "F/m",
+    "context": "Electric constant"
+  },
+  {
+    "type": "constant",
+    "name": "Permeability of Free Space",
+    "symbol": "\u03bc_0",
+    "value": "1.257e-6",
+    "units": "H/m",
+    "context": "Magnetic constant"
+  },
+  {
+    "type": "constant",
+    "name": "Atomic Mass Unit",
+    "symbol": "u",
+    "value": "1.661e-27",
+    "units": "kg",
+    "context": "Unified atomic mass unit"
+  },
+  {
+    "type": "compound",
+    "name": "Hydrochloric Acid",
+    "formula": "HCl",
+    "molecular_weight": 36.46,
+    "boiling_point_c": -85.05,
+    "density_kg_m3": 1490,
+    "cas_number": "7647-01-0"
+  },
+  {
+    "type": "compound",
+    "name": "Sodium Hydroxide",
+    "formula": "NaOH",
+    "molecular_weight": 40.0,
+    "boiling_point_c": 1388,
+    "density_kg_m3": 2130,
+    "cas_number": "1310-73-2"
+  },
+  {
+    "type": "compound",
+    "name": "Sodium Chloride",
+    "formula": "NaCl",
+    "molecular_weight": 58.44,
+    "boiling_point_c": 1465,
+    "density_kg_m3": 2165,
+    "cas_number": "7647-14-5"
+  },
+  {
+    "type": "compound",
+    "name": "Calcium Carbonate",
+    "formula": "CaCO3",
+    "molecular_weight": 100.09,
+    "boiling_point_c": 1339,
+    "density_kg_m3": 2711,
+    "cas_number": "471-34-1"
+  },
+  {
+    "type": "compound",
+    "name": "Calcium Oxide",
+    "formula": "CaO",
+    "molecular_weight": 56.08,
+    "boiling_point_c": 2850,
+    "density_kg_m3": 3340,
+    "cas_number": "1305-78-8"
+  },
+  {
+    "type": "compound",
+    "name": "Phosphoric Acid",
+    "formula": "H3PO4",
+    "molecular_weight": 98.0,
+    "boiling_point_c": 158,
+    "density_kg_m3": 1685,
+    "cas_number": "7664-38-2"
+  },
+  {
+    "type": "compound",
+    "name": "Potassium Hydroxide",
+    "formula": "KOH",
+    "molecular_weight": 56.11,
+    "boiling_point_c": 1327,
+    "density_kg_m3": 2044,
+    "cas_number": "1310-58-3"
+  },
+  {
+    "type": "compound",
+    "name": "Ammonium Nitrate",
+    "formula": "NH4NO3",
+    "molecular_weight": 80.04,
+    "boiling_point_c": 210,
+    "density_kg_m3": 1725,
+    "cas_number": "6484-52-2"
+  },
+  {
+    "type": "compound",
+    "name": "Sodium Carbonate",
+    "formula": "Na2CO3",
+    "molecular_weight": 105.99,
+    "boiling_point_c": 1600,
+    "density_kg_m3": 2540,
+    "cas_number": "497-19-8"
+  },
+  {
+    "type": "compound",
+    "name": "Magnesium Oxide",
+    "formula": "MgO",
+    "molecular_weight": 40.3,
+    "boiling_point_c": 3600,
+    "density_kg_m3": 3580,
+    "cas_number": "1309-48-4"
+  },
+  {
+    "type": "compound",
+    "name": "Aluminum Oxide",
+    "formula": "Al2O3",
+    "molecular_weight": 101.96,
+    "boiling_point_c": 2977,
+    "density_kg_m3": 3950,
+    "cas_number": "1344-28-1"
+  },
+  {
+    "type": "compound",
+    "name": "Silicon Dioxide",
+    "formula": "SiO2",
+    "molecular_weight": 60.08,
+    "boiling_point_c": 2230,
+    "density_kg_m3": 2648,
+    "cas_number": "14808-60-7"
+  },
+  {
+    "type": "compound",
+    "name": "Ferric Oxide",
+    "formula": "Fe2O3",
+    "molecular_weight": 159.69,
+    "boiling_point_c": 3414,
+    "density_kg_m3": 5242,
+    "cas_number": "1309-37-1"
+  },
+  {
+    "type": "compound",
+    "name": "Copper Sulfate",
+    "formula": "CuSO4",
+    "molecular_weight": 159.61,
+    "boiling_point_c": 650,
+    "density_kg_m3": 3603,
+    "cas_number": "7758-98-7"
+  },
+  {
+    "type": "compound",
+    "name": "Zinc Oxide",
+    "formula": "ZnO",
+    "molecular_weight": 81.38,
+    "boiling_point_c": 1974,
+    "density_kg_m3": 5606,
+    "cas_number": "1314-13-2"
+  },
+  {
+    "type": "compound",
+    "name": "Titanium Dioxide",
+    "formula": "TiO2",
+    "molecular_weight": 79.87,
+    "boiling_point_c": 2972,
+    "density_kg_m3": 4230,
+    "cas_number": "13463-67-7"
+  },
+  {
+    "type": "compound",
+    "name": "Barium Sulfate",
+    "formula": "BaSO4",
+    "molecular_weight": 233.39,
+    "boiling_point_c": 1580,
+    "density_kg_m3": 4500,
+    "cas_number": "7727-43-7"
+  },
+  {
+    "type": "compound",
+    "name": "Sodium Sulfate",
+    "formula": "Na2SO4",
+    "molecular_weight": 142.04,
+    "boiling_point_c": 1429,
+    "density_kg_m3": 2664,
+    "cas_number": "7757-82-6"
+  },
+  {
+    "type": "compound",
+    "name": "Potassium Chloride",
+    "formula": "KCl",
+    "molecular_weight": 74.55,
+    "boiling_point_c": 1420,
+    "density_kg_m3": 1984,
+    "cas_number": "7447-40-7"
+  },
+  {
+    "type": "compound",
+    "name": "Ammonium Sulfate",
+    "formula": "(NH4)2SO4",
+    "molecular_weight": 132.14,
+    "boiling_point_c": 235,
+    "density_kg_m3": 1770,
+    "cas_number": "7783-20-2"
+  },
+  {
+    "type": "correlation",
+    "name": "Gibbs Free Energy",
+    "description": "Thermodynamic potential for spontaneity",
+    "equation": "\u0394G = \u0394H - T*\u0394S",
+    "variables": "\u0394G, \u0394H, T, \u0394S",
+    "source": "Gibbs"
+  },
+  {
+    "type": "correlation",
+    "name": "First Law of Thermodynamics",
+    "description": "Energy conservation",
+    "equation": "\u0394U = Q - W",
+    "variables": "\u0394U, Q, W",
+    "source": "Clausius"
+  },
+  {
+    "type": "correlation",
+    "name": "Entropy Change",
+    "description": "Reversible heat transfer",
+    "equation": "dS = dQ_rev/T",
+    "variables": "S, Q_rev, T",
+    "source": "Clausius"
+  },
+  {
+    "type": "correlation",
+    "name": "Carnot Efficiency",
+    "description": "Maximum heat engine efficiency",
+    "equation": "\u03b7 = 1 - T_c/T_h",
+    "variables": "\u03b7, T_c, T_h",
+    "source": "Carnot"
+  },
+  {
+    "type": "correlation",
+    "name": "Maxwell Relations",
+    "description": "Thermodynamic property relations",
+    "equation": "(\u2202T/\u2202V)_S = -(\u2202P/\u2202S)_V",
+    "variables": "T, V, S, P",
+    "source": "Maxwell"
+  },
+  {
+    "type": "correlation",
+    "name": "Helmholtz Free Energy",
+    "description": "Work potential at constant temperature",
+    "equation": "A = U - T*S",
+    "variables": "A, U, T, S",
+    "source": "Helmholtz"
+  },
+  {
+    "type": "correlation",
+    "name": "Enthalpy Definition",
+    "description": "Heat content at constant pressure",
+    "equation": "H = U + P*V",
+    "variables": "H, U, P, V",
+    "source": "Thermodynamics"
+  },
+  {
+    "type": "correlation",
+    "name": "Heat Capacity Relation",
+    "description": "Cp and Cv relationship",
+    "equation": "Cp - Cv = R",
+    "variables": "Cp, Cv, R",
+    "source": "Mayer"
+  },
+  {
+    "type": "correlation",
+    "name": "Joule-Thomson Coefficient",
+    "description": "Temperature change in throttling",
+    "equation": "\u03bc_JT = (\u2202T/\u2202P)_H",
+    "variables": "\u03bc_JT, T, P, H",
+    "source": "Joule-Thomson"
+  },
+  {
+    "type": "correlation",
+    "name": "Trouton's Rule",
+    "description": "Entropy of vaporization estimate",
+    "equation": "\u0394S_vap \u2248 85 J/(mol\u00b7K)",
+    "variables": "\u0394S_vap",
+    "source": "Trouton (1884)"
+  },
+  {
+    "type": "correlation",
+    "name": "Kopp's Rule",
+    "description": "Heat capacity estimation",
+    "equation": "Cp = \u03a3(n_i * Cp_i)",
+    "variables": "Cp, n_i, Cp_i",
+    "source": "Kopp"
+  },
+  {
+    "type": "correlation",
+    "name": "Le Chatelier Principle",
+    "description": "Equilibrium shift prediction",
+    "equation": "System shifts to counteract stress",
+    "variables": "T, P, concentration",
+    "source": "Le Chatelier (1884)"
+  },
+  {
+    "type": "correlation",
+    "name": "Fugacity Coefficient",
+    "description": "Non-ideal gas behavior",
+    "equation": "ln(\u03c6) = \u222b(Z-1)/P dP",
+    "variables": "\u03c6, Z, P",
+    "source": "Lewis"
+  },
+  {
+    "type": "correlation",
+    "name": "Activity Coefficient",
+    "description": "Non-ideal solution behavior",
+    "equation": "a_i = \u03b3_i * x_i",
+    "variables": "a_i, \u03b3_i, x_i",
+    "source": "Lewis"
+  },
+  {
+    "type": "correlation",
+    "name": "Chemical Potential",
+    "description": "Partial molar Gibbs energy",
+    "equation": "\u03bc_i = (\u2202G/\u2202n_i)_{T,P,n_j}",
+    "variables": "\u03bc_i, G, n_i, T, P",
+    "source": "Gibbs"
+  },
+  {
+    "type": "constant",
+    "name": "Steel Density",
+    "symbol": "\u03c1_steel",
+    "value": "7850",
+    "units": "kg/m\u00b3",
+    "context": "Density of carbon steel"
+  },
+  {
+    "type": "constant",
+    "name": "Aluminum Density",
+    "symbol": "\u03c1_Al",
+    "value": "2700",
+    "units": "kg/m\u00b3",
+    "context": "Density of aluminum"
+  },
+  {
+    "type": "constant",
+    "name": "Copper Density",
+    "symbol": "\u03c1_Cu",
+    "value": "8960",
+    "units": "kg/m\u00b3",
+    "context": "Density of copper"
+  },
+  {
+    "type": "constant",
+    "name": "Glass Density",
+    "symbol": "\u03c1_glass",
+    "value": "2500",
+    "units": "kg/m\u00b3",
+    "context": "Density of soda-lime glass"
+  },
+  {
+    "type": "constant",
+    "name": "Concrete Density",
+    "symbol": "\u03c1_concrete",
+    "value": "2400",
+    "units": "kg/m\u00b3",
+    "context": "Density of normal concrete"
+  },
+  {
+    "type": "constant",
+    "name": "Steel Thermal Conductivity",
+    "symbol": "k_steel",
+    "value": "50",
+    "units": "W/(m\u00b7K)",
+    "context": "Thermal conductivity of carbon steel"
+  },
+  {
+    "type": "constant",
+    "name": "Copper Thermal Conductivity",
+    "symbol": "k_Cu",
+    "value": "401",
+    "units": "W/(m\u00b7K)",
+    "context": "Thermal conductivity of copper"
+  },
+  {
+    "type": "constant",
+    "name": "Aluminum Thermal Conductivity",
+    "symbol": "k_Al",
+    "value": "237",
+    "units": "W/(m\u00b7K)",
+    "context": "Thermal conductivity of aluminum"
+  },
+  {
+    "type": "constant",
+    "name": "Glass Thermal Conductivity",
+    "symbol": "k_glass",
+    "value": "1.05",
+    "units": "W/(m\u00b7K)",
+    "context": "Thermal conductivity of glass"
+  },
+  {
+    "type": "constant",
+    "name": "Steel Young's Modulus",
+    "symbol": "E_steel",
+    "value": "200",
+    "units": "GPa",
+    "context": "Elastic modulus of steel"
+  },
+  {
+    "type": "constant",
+    "name": "Aluminum Young's Modulus",
+    "symbol": "E_Al",
+    "value": "69",
+    "units": "GPa",
+    "context": "Elastic modulus of aluminum"
+  },
+  {
+    "type": "constant",
+    "name": "Copper Young's Modulus",
+    "symbol": "E_Cu",
+    "value": "130",
+    "units": "GPa",
+    "context": "Elastic modulus of copper"
+  },
+  {
+    "type": "constant",
+    "name": "Water Surface Tension",
+    "symbol": "\u03c3_water",
+    "value": "0.0728",
+    "units": "N/m",
+    "context": "Surface tension of water at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Mercury Surface Tension",
+    "symbol": "\u03c3_Hg",
+    "value": "0.4865",
+    "units": "N/m",
+    "context": "Surface tension of mercury at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Ethanol Surface Tension",
+    "symbol": "\u03c3_ethanol",
+    "value": "0.0223",
+    "units": "N/m",
+    "context": "Surface tension of ethanol at 20\u00b0C"
+  },
+  {
+    "type": "compound",
+    "name": "n-Hexane",
+    "formula": "C6H14",
+    "molecular_weight": 86.18,
+    "boiling_point_c": 68.7,
+    "density_kg_m3": 655,
+    "cas_number": "110-54-3"
+  },
+  {
+    "type": "compound",
+    "name": "n-Heptane",
+    "formula": "C7H16",
+    "molecular_weight": 100.2,
+    "boiling_point_c": 98.4,
+    "density_kg_m3": 684,
+    "cas_number": "142-82-5"
+  },
+  {
+    "type": "compound",
+    "name": "n-Octane",
+    "formula": "C8H18",
+    "molecular_weight": 114.23,
+    "boiling_point_c": 125.7,
+    "density_kg_m3": 703,
+    "cas_number": "111-65-9"
+  },
+  {
+    "type": "compound",
+    "name": "n-Decane",
+    "formula": "C10H22",
+    "molecular_weight": 142.28,
+    "boiling_point_c": 174.1,
+    "density_kg_m3": 730,
+    "cas_number": "124-18-5"
+  },
+  {
+    "type": "compound",
+    "name": "Isobutane",
+    "formula": "C4H10",
+    "molecular_weight": 58.12,
+    "boiling_point_c": -11.7,
+    "density_kg_m3": 551,
+    "cas_number": "75-28-5"
+  },
+  {
+    "type": "compound",
+    "name": "Neopentane",
+    "formula": "C5H12",
+    "molecular_weight": 72.15,
+    "boiling_point_c": 9.5,
+    "density_kg_m3": 613,
+    "cas_number": "463-82-1"
+  },
+  {
+    "type": "compound",
+    "name": "Ethylene",
+    "formula": "C2H4",
+    "molecular_weight": 28.05,
+    "boiling_point_c": -103.7,
+    "density_kg_m3": 570,
+    "cas_number": "74-85-1"
+  },
+  {
+    "type": "compound",
+    "name": "Propylene Oxide",
+    "formula": "C3H6O",
+    "molecular_weight": 58.08,
+    "boiling_point_c": 34.2,
+    "density_kg_m3": 830,
+    "cas_number": "75-56-9"
+  },
+  {
+    "type": "compound",
+    "name": "Butadiene",
+    "formula": "C4H6",
+    "molecular_weight": 54.09,
+    "boiling_point_c": -4.4,
+    "density_kg_m3": 621,
+    "cas_number": "106-99-0"
+  },
+  {
+    "type": "compound",
+    "name": "Isoprene",
+    "formula": "C5H8",
+    "molecular_weight": 68.12,
+    "boiling_point_c": 34.1,
+    "density_kg_m3": 681,
+    "cas_number": "78-79-5"
+  },
+  {
+    "type": "compound",
+    "name": "Vinyl Chloride",
+    "formula": "C2H3Cl",
+    "molecular_weight": 62.5,
+    "boiling_point_c": -13.4,
+    "density_kg_m3": 910,
+    "cas_number": "75-01-4"
+  },
+  {
+    "type": "compound",
+    "name": "Ethylene Dichloride",
+    "formula": "C2H4Cl2",
+    "molecular_weight": 98.96,
+    "boiling_point_c": 83.5,
+    "density_kg_m3": 1253,
+    "cas_number": "107-06-2"
+  },
+  {
+    "type": "compound",
+    "name": "Methyl Methacrylate",
+    "formula": "C5H8O2",
+    "molecular_weight": 100.12,
+    "boiling_point_c": 100,
+    "density_kg_m3": 944,
+    "cas_number": "80-62-6"
+  },
+  {
+    "type": "compound",
+    "name": "Acrylonitrile",
+    "formula": "C3H3N",
+    "molecular_weight": 53.06,
+    "boiling_point_c": 77.3,
+    "density_kg_m3": 806,
+    "cas_number": "107-13-1"
+  },
+  {
+    "type": "compound",
+    "name": "Adipic Acid",
+    "formula": "C6H10O4",
+    "molecular_weight": 146.14,
+    "boiling_point_c": 337.5,
+    "density_kg_m3": 1360,
+    "cas_number": "124-04-9"
+  },
+  {
+    "type": "compound",
+    "name": "Caprolactam",
+    "formula": "C6H11NO",
+    "molecular_weight": 113.16,
+    "boiling_point_c": 270,
+    "density_kg_m3": 1050,
+    "cas_number": "105-60-2"
+  },
+  {
+    "type": "compound",
+    "name": "Terephthalic Acid",
+    "formula": "C8H6O4",
+    "molecular_weight": 166.13,
+    "boiling_point_c": 402,
+    "density_kg_m3": 1510,
+    "cas_number": "100-21-0"
+  },
+  {
+    "type": "compound",
+    "name": "Phthalic Anhydride",
+    "formula": "C8H4O3",
+    "molecular_weight": 148.12,
+    "boiling_point_c": 295,
+    "density_kg_m3": 1527,
+    "cas_number": "85-44-9"
+  },
+  {
+    "type": "compound",
+    "name": "Vinyl Acetate",
+    "formula": "C4H6O2",
+    "molecular_weight": 86.09,
+    "boiling_point_c": 72.7,
+    "density_kg_m3": 932,
+    "cas_number": "108-05-4"
+  },
+  {
+    "type": "compound",
+    "name": "Cyclohexanol",
+    "formula": "C6H12O",
+    "molecular_weight": 100.16,
+    "boiling_point_c": 161.1,
+    "density_kg_m3": 962,
+    "cas_number": "108-93-0"
+  },
+  {
+    "type": "correlation",
+    "name": "Fick's First Law",
+    "description": "Steady-state diffusion",
+    "equation": "J = -D*(dC/dx)",
+    "variables": "J, D, C, x",
+    "source": "Fick (1855)"
+  },
+  {
+    "type": "correlation",
+    "name": "Fick's Second Law",
+    "description": "Non-steady diffusion",
+    "equation": "\u2202C/\u2202t = D*(\u2202\u00b2C/\u2202x\u00b2)",
+    "variables": "C, t, D, x",
+    "source": "Fick (1855)"
+  },
+  {
+    "type": "correlation",
+    "name": "Stokes Law",
+    "description": "Drag force on sphere",
+    "equation": "F_d = 6*\u03c0*\u03bc*r*v",
+    "variables": "F_d, \u03bc, r, v",
+    "source": "Stokes (1851)"
+  },
+  {
+    "type": "correlation",
+    "name": "Terminal Velocity",
+    "description": "Settling velocity of sphere",
+    "equation": "v_t = (2*r\u00b2*g*(\u03c1_p-\u03c1_f))/(9*\u03bc)",
+    "variables": "v_t, r, g, \u03c1_p, \u03c1_f, \u03bc",
+    "source": "Stokes"
+  },
+  {
+    "type": "correlation",
+    "name": "Kozeny-Carman Equation",
+    "description": "Permeability in porous media",
+    "equation": "k = \u03b5\u00b3*d\u00b2/(180*(1-\u03b5)\u00b2)",
+    "variables": "k, \u03b5, d",
+    "source": "Kozeny-Carman"
+  },
+  {
+    "type": "correlation",
+    "name": "Wilke-Chang Correlation",
+    "description": "Diffusion coefficient estimation",
+    "equation": "D = 7.4e-8*(\u03c6*M_B)^0.5*T/(\u03bc*V_A^0.6)",
+    "variables": "D, \u03c6, M_B, T, \u03bc, V_A",
+    "source": "Wilke-Chang (1955)"
+  },
+  {
+    "type": "correlation",
+    "name": "Chung Method",
+    "description": "Viscosity of gas mixtures",
+    "equation": "Complex correlation for gas viscosity",
+    "variables": "T, P, M, \u03c3, \u03b5",
+    "source": "Chung (1988)"
+  },
+  {
+    "type": "correlation",
+    "name": "Sutherland Formula",
+    "description": "Temperature-dependent gas viscosity",
+    "equation": "\u03bc = \u03bc_0*(T/T_0)^1.5*(T_0+S)/(T+S)",
+    "variables": "\u03bc, T, \u03bc_0, T_0, S",
+    "source": "Sutherland (1893)"
+  },
+  {
+    "type": "correlation",
+    "name": "Andrade Equation",
+    "description": "Temperature-dependent liquid viscosity",
+    "equation": "\u03bc = A*exp(B/T)",
+    "variables": "\u03bc, A, B, T",
+    "source": "Andrade (1930)"
+  },
+  {
+    "type": "correlation",
+    "name": "Chapman-Enskog Theory",
+    "description": "Transport properties from kinetic theory",
+    "equation": "\u03bc = 2.67e-6*(M*T)^0.5/(\u03c3\u00b2*\u03a9)",
+    "variables": "\u03bc, M, T, \u03c3, \u03a9",
+    "source": "Chapman-Enskog"
+  },
+  {
+    "type": "correlation",
+    "name": "Graham's Law",
+    "description": "Diffusion rate of gases",
+    "equation": "r_1/r_2 = (M_2/M_1)^0.5",
+    "variables": "r_1, r_2, M_1, M_2",
+    "source": "Graham (1848)"
+  },
+  {
+    "type": "correlation",
+    "name": "Fourier's Law",
+    "description": "Heat conduction",
+    "equation": "q = -k*(dT/dx)",
+    "variables": "q, k, T, x",
+    "source": "Fourier (1822)"
+  },
+  {
+    "type": "correlation",
+    "name": "Newton's Law of Cooling",
+    "description": "Convective heat transfer",
+    "equation": "q = h*A*(T_s - T_\u221e)",
+    "variables": "q, h, A, T_s, T_\u221e",
+    "source": "Newton"
+  },
+  {
+    "type": "correlation",
+    "name": "Stefan-Boltzmann Law",
+    "description": "Radiative heat transfer",
+    "equation": "q = \u03b5*\u03c3*A*(T^4 - T_surr^4)",
+    "variables": "q, \u03b5, \u03c3, A, T, T_surr",
+    "source": "Stefan-Boltzmann"
+  },
+  {
+    "type": "correlation",
+    "name": "Colburn Analogy",
+    "description": "Heat and mass transfer analogy",
+    "equation": "j_H = j_D = f/2",
+    "variables": "j_H, j_D, f",
+    "source": "Colburn (1933)"
+  },
+  {
+    "type": "constant",
+    "name": "Benzene Density",
+    "symbol": "\u03c1_benzene",
+    "value": "876",
+    "units": "kg/m\u00b3",
+    "context": "Density of benzene at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Hexane Density",
+    "symbol": "\u03c1_hexane",
+    "value": "655",
+    "units": "kg/m\u00b3",
+    "context": "Density of n-hexane at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Toluene Density",
+    "symbol": "\u03c1_toluene",
+    "value": "867",
+    "units": "kg/m\u00b3",
+    "context": "Density of toluene at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Methanol Viscosity",
+    "symbol": "\u03bc_methanol",
+    "value": "5.9e-4",
+    "units": "Pa\u00b7s",
+    "context": "Dynamic viscosity of methanol at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Ethanol Viscosity",
+    "symbol": "\u03bc_ethanol",
+    "value": "1.2e-3",
+    "units": "Pa\u00b7s",
+    "context": "Dynamic viscosity of ethanol at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Glycerol Viscosity",
+    "symbol": "\u03bc_glycerol",
+    "value": "1.412",
+    "units": "Pa\u00b7s",
+    "context": "Dynamic viscosity of glycerol at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Mercury Density",
+    "symbol": "\u03c1_Hg",
+    "value": "13546",
+    "units": "kg/m\u00b3",
+    "context": "Density of mercury at 20\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Gasoline Density",
+    "symbol": "\u03c1_gasoline",
+    "value": "750",
+    "units": "kg/m\u00b3",
+    "context": "Average density of gasoline"
+  },
+  {
+    "type": "constant",
+    "name": "Diesel Density",
+    "symbol": "\u03c1_diesel",
+    "value": "832",
+    "units": "kg/m\u00b3",
+    "context": "Average density of diesel fuel"
+  },
+  {
+    "type": "constant",
+    "name": "Crude Oil Density",
+    "symbol": "\u03c1_oil",
+    "value": "870",
+    "units": "kg/m\u00b3",
+    "context": "Average density of crude oil"
+  },
+  {
+    "type": "constant",
+    "name": "Nitrogen Critical Temperature",
+    "symbol": "T_c_N2",
+    "value": "126.2",
+    "units": "K",
+    "context": "Critical temperature of nitrogen"
+  },
+  {
+    "type": "constant",
+    "name": "Oxygen Critical Temperature",
+    "symbol": "T_c_O2",
+    "value": "154.6",
+    "units": "K",
+    "context": "Critical temperature of oxygen"
+  },
+  {
+    "type": "constant",
+    "name": "CO2 Critical Temperature",
+    "symbol": "T_c_CO2",
+    "value": "304.1",
+    "units": "K",
+    "context": "Critical temperature of carbon dioxide"
+  },
+  {
+    "type": "constant",
+    "name": "Methane Critical Temperature",
+    "symbol": "T_c_CH4",
+    "value": "190.6",
+    "units": "K",
+    "context": "Critical temperature of methane"
+  },
+  {
+    "type": "constant",
+    "name": "Ethane Critical Temperature",
+    "symbol": "T_c_C2H6",
+    "value": "305.3",
+    "units": "K",
+    "context": "Critical temperature of ethane"
+  },
+  {
+    "type": "compound",
+    "name": "Polyethylene",
+    "formula": "(C2H4)n",
+    "molecular_weight": 28000,
+    "boiling_point_c": 135,
+    "density_kg_m3": 950,
+    "cas_number": "9002-88-4"
+  },
+  {
+    "type": "compound",
+    "name": "Polypropylene",
+    "formula": "(C3H6)n",
+    "molecular_weight": 340000,
+    "boiling_point_c": 165,
+    "density_kg_m3": 900,
+    "cas_number": "9003-07-0"
+  },
+  {
+    "type": "compound",
+    "name": "Polystyrene",
+    "formula": "(C8H8)n",
+    "molecular_weight": 280000,
+    "boiling_point_c": 240,
+    "density_kg_m3": 1050,
+    "cas_number": "9003-53-6"
+  },
+  {
+    "type": "compound",
+    "name": "Polyvinyl Chloride",
+    "formula": "(C2H3Cl)n",
+    "molecular_weight": 100000,
+    "boiling_point_c": 212,
+    "density_kg_m3": 1380,
+    "cas_number": "9002-86-2"
+  },
+  {
+    "type": "compound",
+    "name": "Nylon-6",
+    "formula": "(C6H11NO)n",
+    "molecular_weight": 15000,
+    "boiling_point_c": 215,
+    "density_kg_m3": 1140,
+    "cas_number": "25038-54-4"
+  },
+  {
+    "type": "compound",
+    "name": "Nylon-66",
+    "formula": "(C12H22N2O2)n",
+    "molecular_weight": 15000,
+    "boiling_point_c": 265,
+    "density_kg_m3": 1140,
+    "cas_number": "32131-17-2"
+  },
+  {
+    "type": "compound",
+    "name": "Polyethylene Terephthalate",
+    "formula": "(C10H8O4)n",
+    "molecular_weight": 25000,
+    "boiling_point_c": 255,
+    "density_kg_m3": 1380,
+    "cas_number": "25038-59-9"
+  },
+  {
+    "type": "compound",
+    "name": "Polycarbonate",
+    "formula": "(C16H14O3)n",
+    "molecular_weight": 45000,
+    "boiling_point_c": 155,
+    "density_kg_m3": 1200,
+    "cas_number": "25037-45-0"
+  },
+  {
+    "type": "compound",
+    "name": "Bisphenol A",
+    "formula": "C15H16O2",
+    "molecular_weight": 228.29,
+    "boiling_point_c": 220,
+    "density_kg_m3": 1195,
+    "cas_number": "80-05-7"
+  },
+  {
+    "type": "compound",
+    "name": "Epichlorohydrin",
+    "formula": "C3H5ClO",
+    "molecular_weight": 92.52,
+    "boiling_point_c": 117.9,
+    "density_kg_m3": 1180,
+    "cas_number": "106-89-8"
+  },
+  {
+    "type": "compound",
+    "name": "Urea",
+    "formula": "CH4N2O",
+    "molecular_weight": 60.06,
+    "boiling_point_c": 135,
+    "density_kg_m3": 1320,
+    "cas_number": "57-13-6"
+  },
+  {
+    "type": "compound",
+    "name": "Formaldehyde Solution",
+    "formula": "CH2O",
+    "molecular_weight": 30.03,
+    "boiling_point_c": 96,
+    "density_kg_m3": 1080,
+    "cas_number": "50-00-0"
+  },
+  {
+    "type": "compound",
+    "name": "Melamine",
+    "formula": "C3H6N6",
+    "molecular_weight": 126.12,
+    "boiling_point_c": 345,
+    "density_kg_m3": 1573,
+    "cas_number": "108-78-1"
+  },
+  {
+    "type": "compound",
+    "name": "Polyacrylamide",
+    "formula": "(C3H5NO)n",
+    "molecular_weight": 71000,
+    "boiling_point_c": 192,
+    "density_kg_m3": 1302,
+    "cas_number": "9003-05-8"
+  },
+  {
+    "type": "compound",
+    "name": "Cellulose",
+    "formula": "(C6H10O5)n",
+    "molecular_weight": 162000,
+    "boiling_point_c": 260,
+    "density_kg_m3": 1500,
+    "cas_number": "9004-34-6"
+  },
+  {
+    "type": "compound",
+    "name": "Starch",
+    "formula": "(C6H10O5)n",
+    "molecular_weight": 162000,
+    "boiling_point_c": 256,
+    "density_kg_m3": 1500,
+    "cas_number": "9005-25-8"
+  },
+  {
+    "type": "compound",
+    "name": "Polyvinyl Alcohol",
+    "formula": "(C2H4O)n",
+    "molecular_weight": 89000,
+    "boiling_point_c": 228,
+    "density_kg_m3": 1190,
+    "cas_number": "9002-89-5"
+  },
+  {
+    "type": "compound",
+    "name": "Polyvinylidene Chloride",
+    "formula": "(C2H2Cl2)n",
+    "molecular_weight": 96900,
+    "boiling_point_c": 195,
+    "density_kg_m3": 1700,
+    "cas_number": "9002-85-1"
+  },
+  {
+    "type": "compound",
+    "name": "Polytetrafluoroethylene",
+    "formula": "(C2F4)n",
+    "molecular_weight": 100000,
+    "boiling_point_c": 327,
+    "density_kg_m3": 2200,
+    "cas_number": "9002-84-0"
+  },
+  {
+    "type": "compound",
+    "name": "Silicone Oil",
+    "formula": "(C2H6OSi)n",
+    "molecular_weight": 7500,
+    "boiling_point_c": 101,
+    "density_kg_m3": 960,
+    "cas_number": "63148-62-9"
+  },
+  {
+    "type": "correlation",
+    "name": "Batch Reactor Design",
+    "description": "Time for batch reaction",
+    "equation": "t = \u222b(dX/(\u2212r_A))",
+    "variables": "t, X, r_A",
+    "source": "Reaction Engineering"
+  },
+  {
+    "type": "correlation",
+    "name": "CSTR Design Equation",
+    "description": "Continuous stirred tank reactor",
+    "equation": "V/F_A0 = X_A/(\u2212r_A)",
+    "variables": "V, F_A0, X_A, r_A",
+    "source": "Reaction Engineering"
+  },
+  {
+    "type": "correlation",
+    "name": "PFR Design Equation",
+    "description": "Plug flow reactor",
+    "equation": "V/F_A0 = \u222b(dX_A/(\u2212r_A))",
+    "variables": "V, F_A0, X_A, r_A",
+    "source": "Reaction Engineering"
+  },
+  {
+    "type": "correlation",
+    "name": "First Order Rate Law",
+    "description": "First order reaction kinetics",
+    "equation": "r = k*C_A",
+    "variables": "r, k, C_A",
+    "source": "Chemical Kinetics"
+  },
+  {
+    "type": "correlation",
+    "name": "Second Order Rate Law",
+    "description": "Second order reaction kinetics",
+    "equation": "r = k*C_A*C_B",
+    "variables": "r, k, C_A, C_B",
+    "source": "Chemical Kinetics"
+  },
+  {
+    "type": "correlation",
+    "name": "Michaelis-Menten Kinetics",
+    "description": "Enzyme kinetics",
+    "equation": "v = V_max*[S]/(K_m + [S])",
+    "variables": "v, V_max, S, K_m",
+    "source": "Michaelis-Menten (1913)"
+  },
+  {
+    "type": "correlation",
+    "name": "Monod Equation",
+    "description": "Microbial growth rate",
+    "equation": "\u03bc = \u03bc_max*S/(K_s + S)",
+    "variables": "\u03bc, \u03bc_max, S, K_s",
+    "source": "Monod (1949)"
+  },
+  {
+    "type": "correlation",
+    "name": "Thiele Modulus",
+    "description": "Diffusion vs reaction in catalyst",
+    "equation": "\u03c6 = L*(k/D_eff)^0.5",
+    "variables": "\u03c6, L, k, D_eff",
+    "source": "Thiele (1939)"
+  },
+  {
+    "type": "correlation",
+    "name": "Effectiveness Factor",
+    "description": "Catalyst effectiveness",
+    "equation": "\u03b7 = tanh(\u03c6)/\u03c6",
+    "variables": "\u03b7, \u03c6",
+    "source": "Catalysis"
+  },
+  {
+    "type": "correlation",
+    "name": "Damk\u00f6hler Number Type I",
+    "description": "Reaction to diffusion rate",
+    "equation": "Da_I = k*\u03c4",
+    "variables": "k, \u03c4",
+    "source": "Damk\u00f6hler"
+  },
+  {
+    "type": "correlation",
+    "name": "Hatta Number",
+    "description": "Gas-liquid reaction regime",
+    "equation": "Ha = (k*D)^0.5/k_L",
+    "variables": "Ha, k, D, k_L",
+    "source": "Hatta"
+  },
+  {
+    "type": "correlation",
+    "name": "Peclet Number for Reactors",
+    "description": "Axial dispersion in reactors",
+    "equation": "Pe = u*L/D_ax",
+    "variables": "Pe, u, L, D_ax",
+    "source": "Reactor Engineering"
+  },
+  {
+    "type": "correlation",
+    "name": "Bodenstein Number",
+    "description": "Plug flow deviation",
+    "equation": "Bo = Pe = u*L/D_ax",
+    "variables": "Bo, u, L, D_ax",
+    "source": "Bodenstein"
+  },
+  {
+    "type": "correlation",
+    "name": "Selectivity Definition",
+    "description": "Desired product formation",
+    "equation": "S = r_desired/r_undesired",
+    "variables": "S, r_desired, r_undesired",
+    "source": "Reaction Engineering"
+  },
+  {
+    "type": "correlation",
+    "name": "Yield Definition",
+    "description": "Product yield from reactant",
+    "equation": "Y = moles_product/moles_reactant_fed",
+    "variables": "Y",
+    "source": "Reaction Engineering"
+  },
+  {
+    "type": "constant",
+    "name": "Hydrogen Bond Energy",
+    "symbol": "E_H_bond",
+    "value": "20",
+    "units": "kJ/mol",
+    "context": "Typical hydrogen bond strength"
+  },
+  {
+    "type": "constant",
+    "name": "C-C Bond Energy",
+    "symbol": "E_CC",
+    "value": "347",
+    "units": "kJ/mol",
+    "context": "Carbon-carbon single bond energy"
+  },
+  {
+    "type": "constant",
+    "name": "C=C Bond Energy",
+    "symbol": "E_C_double_C",
+    "value": "614",
+    "units": "kJ/mol",
+    "context": "Carbon-carbon double bond energy"
+  },
+  {
+    "type": "constant",
+    "name": "C-H Bond Energy",
+    "symbol": "E_CH",
+    "value": "413",
+    "units": "kJ/mol",
+    "context": "Carbon-hydrogen bond energy"
+  },
+  {
+    "type": "constant",
+    "name": "O-H Bond Energy",
+    "symbol": "E_OH",
+    "value": "463",
+    "units": "kJ/mol",
+    "context": "Oxygen-hydrogen bond energy"
+  },
+  {
+    "type": "constant",
+    "name": "N-H Bond Energy",
+    "symbol": "E_NH",
+    "value": "391",
+    "units": "kJ/mol",
+    "context": "Nitrogen-hydrogen bond energy"
+  },
+  {
+    "type": "constant",
+    "name": "Pre-exponential Factor Range",
+    "symbol": "A_typical",
+    "value": "1e10-1e14",
+    "units": "1/s",
+    "context": "Typical range for first-order reactions"
+  },
+  {
+    "type": "constant",
+    "name": "Activation Energy Typical",
+    "symbol": "E_a_typical",
+    "value": "50-200",
+    "units": "kJ/mol",
+    "context": "Typical activation energy range"
+  },
+  {
+    "type": "constant",
+    "name": "Catalyst Surface Area",
+    "symbol": "S_catalyst",
+    "value": "100-500",
+    "units": "m\u00b2/g",
+    "context": "Typical catalyst specific surface area"
+  },
+  {
+    "type": "constant",
+    "name": "Reactor Space Time Typical",
+    "symbol": "\u03c4_reactor",
+    "value": "10-3600",
+    "units": "s",
+    "context": "Typical reactor residence time range"
+  },
+  {
+    "type": "constant",
+    "name": "pH Neutral",
+    "symbol": "pH_neutral",
+    "value": "7.0",
+    "units": "dimensionless",
+    "context": "Neutral pH at 25\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "pKa of Acetic Acid",
+    "symbol": "pKa_acetic",
+    "value": "4.76",
+    "units": "dimensionless",
+    "context": "Acid dissociation constant"
+  },
+  {
+    "type": "constant",
+    "name": "pKb of Ammonia",
+    "symbol": "pKb_ammonia",
+    "value": "4.75",
+    "units": "dimensionless",
+    "context": "Base dissociation constant"
+  },
+  {
+    "type": "constant",
+    "name": "Water Ion Product",
+    "symbol": "K_w",
+    "value": "1.0e-14",
+    "units": "mol\u00b2/L\u00b2",
+    "context": "Water autoionization at 25\u00b0C"
+  },
+  {
+    "type": "constant",
+    "name": "Standard Enthalpy of Combustion CH4",
+    "symbol": "\u0394H_c_CH4",
+    "value": "-890",
+    "units": "kJ/mol",
+    "context": "Methane combustion enthalpy"
+  },
+  {
+    "type": "compound",
+    "name": "Dichloromethane",
+    "formula": "CH2Cl2",
+    "molecular_weight": 84.93,
+    "boiling_point_c": 39.6,
+    "density_kg_m3": 1327,
+    "cas_number": "75-09-2"
+  },
+  {
+    "type": "compound",
+    "name": "Trichloroethylene",
+    "formula": "C2HCl3",
+    "molecular_weight": 131.39,
+    "boiling_point_c": 87.2,
+    "density_kg_m3": 1464,
+    "cas_number": "79-01-6"
+  },
+  {
+    "type": "compound",
+    "name": "Tetrachloroethylene",
+    "formula": "C2Cl4",
+    "molecular_weight": 165.83,
+    "boiling_point_c": 121.3,
+    "density_kg_m3": 1623,
+    "cas_number": "127-18-4"
+  },
+  {
+    "type": "compound",
+    "name": "1,4-Dioxane",
+    "formula": "C4H8O2",
+    "molecular_weight": 88.11,
+    "boiling_point_c": 101.1,
+    "density_kg_m3": 1033,
+    "cas_number": "123-91-1"
+  },
+  {
+    "type": "compound",
+    "name": "N-Methylpyrrolidone",
+    "formula": "C5H9NO",
+    "molecular_weight": 99.13,
+    "boiling_point_c": 202,
+    "density_kg_m3": 1028,
+    "cas_number": "872-50-4"
+  },
+  {
+    "type": "compound",
+    "name": "Morpholine",
+    "formula": "C4H9NO",
+    "molecular_weight": 87.12,
+    "boiling_point_c": 128,
+    "density_kg_m3": 1007,
+    "cas_number": "110-91-8"
+  },
+  {
+    "type": "compound",
+    "name": "Ethyl Ether",
+    "formula": "C4H10O",
+    "molecular_weight": 74.12,
+    "boiling_point_c": 34.6,
+    "density_kg_m3": 714,
+    "cas_number": "60-29-7"
+  },
+  {
+    "type": "compound",
+    "name": "Methyl tert-Butyl Ether",
+    "formula": "C5H12O",
+    "molecular_weight": 88.15,
+    "boiling_point_c": 55.2,
+    "density_kg_m3": 740,
+    "cas_number": "1634-04-4"
+  },
+  {
+    "type": "compound",
+    "name": "Propylene Carbonate",
+    "formula": "C4H6O3",
+    "molecular_weight": 102.09,
+    "boiling_point_c": 242,
+    "density_kg_m3": 1205,
+    "cas_number": "108-32-7"
+  },
+  {
+    "type": "compound",
+    "name": "Ethylene Carbonate",
+    "formula": "C3H4O3",
+    "molecular_weight": 88.06,
+    "boiling_point_c": 248,
+    "density_kg_m3": 1321,
+    "cas_number": "96-49-1"
+  },
+  {
+    "type": "compound",
+    "name": "Quinoline",
+    "formula": "C9H7N",
+    "molecular_weight": 129.16,
+    "boiling_point_c": 237.1,
+    "density_kg_m3": 1093,
+    "cas_number": "91-22-5"
+  },
+  {
+    "type": "compound",
+    "name": "Aniline Hydrochloride",
+    "formula": "C6H8ClN",
+    "molecular_weight": 129.59,
+    "boiling_point_c": 245,
+    "density_kg_m3": 1222,
+    "cas_number": "142-04-1"
+  },
+  {
+    "type": "compound",
+    "name": "Triethylamine",
+    "formula": "C6H15N",
+    "molecular_weight": 101.19,
+    "boiling_point_c": 89.5,
+    "density_kg_m3": 726,
+    "cas_number": "121-44-8"
+  },
+  {
+    "type": "compound",
+    "name": "Diethylamine",
+    "formula": "C4H11N",
+    "molecular_weight": 73.14,
+    "boiling_point_c": 55.5,
+    "density_kg_m3": 707,
+    "cas_number": "109-89-7"
+  },
+  {
+    "type": "compound",
+    "name": "n-Butylamine",
+    "formula": "C4H11N",
+    "molecular_weight": 73.14,
+    "boiling_point_c": 77.8,
+    "density_kg_m3": 740,
+    "cas_number": "109-73-9"
+  },
+  {
+    "type": "compound",
+    "name": "Cyclohexanone",
+    "formula": "C6H10O",
+    "molecular_weight": 98.14,
+    "boiling_point_c": 155.7,
+    "density_kg_m3": 948,
+    "cas_number": "108-94-1"
+  },
+  {
+    "type": "compound",
+    "name": "Methyl Isobutyl Ketone",
+    "formula": "C6H12O",
+    "molecular_weight": 100.16,
+    "boiling_point_c": 116.5,
+    "density_kg_m3": 802,
+    "cas_number": "108-10-1"
+  },
+  {
+    "type": "compound",
+    "name": "Chlorobenzene",
+    "formula": "C6H5Cl",
+    "molecular_weight": 112.56,
+    "boiling_point_c": 131.7,
+    "density_kg_m3": 1106,
+    "cas_number": "108-90-7"
+  },
+  {
+    "type": "compound",
+    "name": "o-Dichlorobenzene",
+    "formula": "C6H4Cl2",
+    "molecular_weight": 147.0,
+    "boiling_point_c": 180.5,
+    "density_kg_m3": 1306,
+    "cas_number": "95-50-1"
+  },
+  {
+    "type": "compound",
+    "name": "Anisole",
+    "formula": "C7H8O",
+    "molecular_weight": 108.14,
+    "boiling_point_c": 153.7,
+    "density_kg_m3": 994,
+    "cas_number": "100-66-3"
+  },
+  {
+    "type": "correlation",
+    "name": "McCabe-Thiele Method",
+    "description": "Graphical distillation design",
+    "equation": "y = (R/(R+1))*x + x_D/(R+1)",
+    "variables": "y, x, R, x_D",
+    "source": "McCabe-Thiele (1925)"
+  },
+  {
+    "type": "correlation",
+    "name": "Fenske Equation",
+    "description": "Minimum stages at total reflux",
+    "equation": "N_min = ln[(x_D/(1-x_D))*((1-x_B)/x_B)]/ln(\u03b1)",
+    "variables": "N_min, x_D, x_B, \u03b1",
+    "source": "Fenske (1932)"
+  },
+  {
+    "type": "correlation",
+    "name": "Underwood Equation",
+    "description": "Minimum reflux ratio",
+    "equation": "Sum[\u03b1_i*x_i/(\u03b1_i-\u03b8)] = 1-q",
+    "variables": "\u03b1_i, x_i, \u03b8, q",
+    "source": "Underwood (1948)"
+  },
+  {
+    "type": "correlation",
+    "name": "Gilliland Correlation",
+    "description": "Actual stages vs minimum",
+    "equation": "Y = 1 - exp[(1+54.4*X)/(11+117.2*X)*(X-1)/X^0.5]",
+    "variables": "X, Y, N, N_min, R, R_min",
+    "source": "Gilliland (1940)"
+  },
+  {
+    "type": "correlation",
+    "name": "Murphree Efficiency",
+    "description": "Tray efficiency",
+    "equation": "E_MV = (y_n - y_n+1)/(y_n* - y_n+1)",
+    "variables": "E_MV, y_n, y_n+1, y_n*",
+    "source": "Murphree (1925)"
+  },
+  {
+    "type": "correlation",
+    "name": "O'Connell Correlation",
+    "description": "Overall tray efficiency",
+    "equation": "log(E_0) = 1.597 - 0.199*log(\u03bc_L*\u03b1)",
+    "variables": "E_0, \u03bc_L, \u03b1",
+    "source": "O'Connell (1946)"
+  },
+  {
+    "type": "correlation",
+    "name": "HETP Definition",
+    "description": "Height equivalent to theoretical plate",
+    "equation": "HETP = Z/N",
+    "variables": "HETP, Z, N",
+    "source": "Packed column design"
+  },
+  {
+    "type": "correlation",
+    "name": "HTU-NTU Method",
+    "description": "Packed column design",
+    "equation": "Z = HTU * NTU",
+    "variables": "Z, HTU, NTU",
+    "source": "Packed column design"
+  },
+  {
+    "type": "correlation",
+    "name": "Film Theory",
+    "description": "Two-film theory of mass transfer",
+    "equation": "1/K = 1/(k_L*H) + 1/k_G",
+    "variables": "K, k_L, k_G, H",
+    "source": "Whitman (1923)"
+  },
+  {
+    "type": "correlation",
+    "name": "Penetration Theory",
+    "description": "Unsteady-state mass transfer",
+    "equation": "k_L = 2*(D/(\u03c0*t))^0.5",
+    "variables": "k_L, D, t",
+    "source": "Higbie (1935)"
+  },
+  {
+    "type": "correlation",
+    "name": "Surface Renewal Theory",
+    "description": "Mass transfer with surface renewal",
+    "equation": "k_L = (D*s)^0.5",
+    "variables": "k_L, D, s",
+    "source": "Danckwerts (1951)"
+  },
+  {
+    "type": "correlation",
+    "name": "Chilton-Colburn Analogy",
+    "description": "Heat-mass transfer analogy",
+    "equation": "j_H = j_D",
+    "variables": "j_H, j_D",
+    "source": "Chilton-Colburn (1934)"
+  },
+  {
+    "type": "correlation",
+    "name": "Relative Volatility",
+    "description": "Ease of separation",
+    "equation": "\u03b1_AB = (y_A/x_A)/(y_B/x_B)",
+    "variables": "\u03b1_AB, y_A, x_A, y_B, x_B",
+    "source": "Distillation"
+  },
+  {
+    "type": "correlation",
+    "name": "Distribution Coefficient",
+    "description": "Solute distribution in extraction",
+    "equation": "K_D = C_organic/C_aqueous",
+    "variables": "K_D, C_organic, C_aqueous",
+    "source": "Liquid-liquid extraction"
+  },
+  {
+    "type": "correlation",
+    "name": "Kremser Equation",
+    "description": "Countercurrent absorption",
+    "equation": "N = ln[(y_1-y_2)/(y_1-y_N+1)*(1-1/A)+1/A]/ln(A)",
+    "variables": "N, y_1, y_2, y_N+1, A",
+    "source": "Kremser (1930)"
+  },
+  {
+    "type": "constant",
+    "name": "Typical Tray Spacing",
+    "symbol": "H_tray",
+    "value": "0.45-0.60",
+    "units": "m",
+    "context": "Standard distillation column tray spacing"
+  },
+  {
+    "type": "constant",
+    "name": "Packed Bed Void Fraction",
+    "symbol": "\u03b5_packed",
+    "value": "0.35-0.45",
+    "units": "dimensionless",
+    "context": "Typical void fraction in packed columns"
+  },
+  {
+    "type": "constant",
+    "name": "Flooding Velocity Factor",
+    "symbol": "C_flood",
+    "value": "0.1-0.4",
+    "units": "m/s",
+    "context": "Flooding capacity parameter"
+  },
+  {
+    "type": "constant",
+    "name": "Weir Height Standard",
+    "symbol": "h_weir",
+    "value": "50",
+    "units": "mm",
+    "context": "Typical distillation tray weir height"
+  },
+  {
+    "type": "constant",
+    "name": "Hole Diameter in Sieve Tray",
+    "symbol": "d_hole",
+    "value": "3-12",
+    "units": "mm",
+    "context": "Standard sieve tray perforation size"
+  },
+  {
+    "type": "constant",
+    "name": "Tray Efficiency Typical",
+    "symbol": "E_tray_typical",
+    "value": "0.60-0.80",
+    "units": "dimensionless",
+    "context": "Typical overall tray efficiency"
+  },
+  {
+    "type": "constant",
+    "name": "Packed Column HETP",
+    "symbol": "HETP_typical",
+    "value": "0.3-0.6",
+    "units": "m",
+    "context": "Typical HETP for random packing"
+  },
+  {
+    "type": "constant",
+    "name": "Reflux Ratio Optimal",
+    "symbol": "R_optimal",
+    "value": "1.2-1.5*R_min",
+    "units": "dimensionless",
+    "context": "Optimal reflux ratio rule of thumb"
+  },
+  {
+    "type": "constant",
+    "name": "Feed Tray Location",
+    "symbol": "N_F_location",
+    "value": "0.5-0.6*N_total",
+    "units": "dimensionless",
+    "context": "Optimal feed location from bottom"
+  },
+  {
+    "type": "constant",
+    "name": "Membrane Selectivity Typical",
+    "symbol": "\u03b1_membrane",
+    "value": "10-100",
+    "units": "dimensionless",
+    "context": "Typical gas separation membrane selectivity"
+  },
+  {
+    "type": "constant",
+    "name": "Osmotic Pressure Seawater",
+    "symbol": "\u03c0_seawater",
+    "value": "2.5",
+    "units": "MPa",
+    "context": "Osmotic pressure of seawater"
+  },
+  {
+    "type": "constant",
+    "name": "RO Membrane Flux",
+    "symbol": "J_RO",
+    "value": "20-40",
+    "units": "L/(m\u00b2\u00b7h)",
+    "context": "Typical reverse osmosis membrane flux"
+  },
+  {
+    "type": "constant",
+    "name": "Adsorption Capacity Activated Carbon",
+    "symbol": "q_AC",
+    "value": "100-500",
+    "units": "mg/g",
+    "context": "Typical activated carbon capacity"
+  },
+  {
+    "type": "constant",
+    "name": "Ion Exchange Capacity",
+    "symbol": "Q_IEX",
+    "value": "2-5",
+    "units": "meq/g",
+    "context": "Typical ion exchange resin capacity"
+  },
+  {
+    "type": "constant",
+    "name": "Crystallization Supersaturation",
+    "symbol": "S_cryst",
+    "value": "1.1-1.3",
+    "units": "dimensionless",
+    "context": "Typical supersaturation ratio"
   }
 ]
