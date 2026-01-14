@@ -1,15 +1,6 @@
 [
   {
     "type": "compound",
-    "name": "Acetic Acid",
-    "formula": "CH3COOH",
-    "molecular_weight": 60.05,
-    "boiling_point_c": 118.1,
-    "density_kg_m3": 1049,
-    "cas_number": "64-19-7"
-  },
-  {
-    "type": "compound",
     "name": "Chloroform",
     "formula": "CHCl3",
     "molecular_weight": 119.38,
