@@ -52,5 +52,14 @@
     "density_kg_m3": 1049,
     "cas_number": "64-19-7",
     "date_added": "2026-01-14"
+  },
+  {
+    "name": "Chloroform",
+    "formula": "CHCl3",
+    "molecular_weight": 119.38,
+    "boiling_point_c": 61.2,
+    "density_kg_m3": 1480,
+    "cas_number": "67-66-3",
+    "date_added": "2026-01-13"
   }
 ]

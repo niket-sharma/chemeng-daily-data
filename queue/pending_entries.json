@@ -1,15 +1,6 @@
 [
   {
     "type": "compound",
-    "name": "Chloroform",
-    "formula": "CHCl3",
-    "molecular_weight": 119.38,
-    "boiling_point_c": 61.2,
-    "density_kg_m3": 1480,
-    "cas_number": "67-66-3"
-  },
-  {
-    "type": "compound",
     "name": "Ethylene Glycol",
     "formula": "C2H6O2",
     "molecular_weight": 62.07,
