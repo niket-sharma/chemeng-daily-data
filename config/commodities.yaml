@@ -1,0 +1,54 @@
+energy:
+  - name: WTI Crude Oil
+    symbol: CL=F
+    source: yfinance
+    unit: $/barrel
+  - name: Brent Crude Oil
+    symbol: BZ=F
+    source: yfinance
+    unit: $/barrel
+  - name: Natural Gas
+    symbol: NG=F
+    source: yfinance
+    unit: $/MMBtu
+  - name: Heating Oil
+    symbol: HO=F
+    source: yfinance
+    unit: $/gallon
+
+stocks:
+  - name: Dow Inc.
+    symbol: DOW
+    source: yfinance
+  - name: LyondellBasell
+    symbol: LYB
+    source: yfinance
+  - name: DuPont
+    symbol: DD
+    source: yfinance
+  - name: Air Products
+    symbol: APD
+    source: yfinance
+  - name: Linde
+    symbol: LIN
+    source: yfinance
+  - name: Eastman Chemical
+    symbol: EMN
+    source: yfinance
+  - name: Celanese
+    symbol: CE
+    source: yfinance
+  - name: Huntsman
+    symbol: HUN
+    source: yfinance
+
+fred_series:
+  - name: Natural Gas (Henry Hub)
+    series_id: DHHNGSP
+    unit: $/MMBtu
+  - name: WTI Crude
+    series_id: DCOILWTICO
+    unit: $/barrel
+  - name: Brent Crude
+    series_id: DCOILBRENTEU
+    unit: $/barrel

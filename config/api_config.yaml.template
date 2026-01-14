@@ -1,0 +1,8 @@
+# Copy this file to api_config.yaml and fill in your API keys
+# DO NOT commit api_config.yaml to the repository
+
+alpha_vantage:
+  api_key: YOUR_ALPHA_VANTAGE_API_KEY
+
+fred:
+  api_key: YOUR_FRED_API_KEY

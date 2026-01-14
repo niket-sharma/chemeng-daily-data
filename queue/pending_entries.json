@@ -1,15 +1,6 @@
 [
   {
     "type": "compound",
-    "name": "Propylene",
-    "formula": "C3H6",
-    "molecular_weight": 42.08,
-    "boiling_point_c": -47.6,
-    "density_kg_m3": 514,
-    "cas_number": "115-07-1"
-  },
-  {
-    "type": "compound",
     "name": "Styrene",
     "formula": "C8H8",
     "molecular_weight": 104.15,

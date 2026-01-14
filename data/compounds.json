@@ -70,5 +70,14 @@
     "density_kg_m3": 1113,
     "cas_number": "107-21-1",
     "date_added": "2026-01-13"
+  },
+  {
+    "name": "Propylene",
+    "formula": "C3H6",
+    "molecular_weight": 42.08,
+    "boiling_point_c": -47.6,
+    "density_kg_m3": 514,
+    "cas_number": "115-07-1",
+    "date_added": "2026-01-14"
   }
 ]
