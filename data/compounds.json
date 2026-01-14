@@ -61,5 +61,14 @@
     "density_kg_m3": 1480,
     "cas_number": "67-66-3",
     "date_added": "2026-01-13"
+  },
+  {
+    "name": "Ethylene Glycol",
+    "formula": "C2H6O2",
+    "molecular_weight": 62.07,
+    "boiling_point_c": 197.3,
+    "density_kg_m3": 1113,
+    "cas_number": "107-21-1",
+    "date_added": "2026-01-13"
   }
 ]
