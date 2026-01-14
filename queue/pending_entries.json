@@ -1,15 +1,6 @@
 [
   {
     "type": "compound",
-    "name": "Toluene",
-    "formula": "C7H8",
-    "molecular_weight": 92.14,
-    "boiling_point_c": 110.6,
-    "density_kg_m3": 867,
-    "cas_number": "108-88-3"
-  },
-  {
-    "type": "compound",
     "name": "Acetic Acid",
     "formula": "CH3COOH",
     "molecular_weight": 60.05,

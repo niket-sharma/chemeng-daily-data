@@ -34,5 +34,14 @@
     "density_kg_m3": 876,
     "cas_number": "71-43-2",
     "date_added": "2026-01-14"
+  },
+  {
+    "name": "Toluene",
+    "formula": "C7H8",
+    "molecular_weight": 92.14,
+    "boiling_point_c": 110.6,
+    "density_kg_m3": 867,
+    "cas_number": "108-88-3",
+    "date_added": "2026-01-14"
   }
 ]
