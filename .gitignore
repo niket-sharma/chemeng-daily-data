@@ -7,7 +7,7 @@ __pycache__/
 env/
 venv/
 ENV/
-.venv
+.venv/
 
 # IDE
 .vscode/
@@ -26,6 +26,9 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+
+# API config (contains secrets)
+config/api_config.yaml
 
 # Development documentation
 Chem data project instructions.md

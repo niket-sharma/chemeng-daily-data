@@ -11,3 +11,4 @@ Daily updates to the chemical engineering data repository.
 - **2026-01-13**: Added compound: Chloroform
 - **2026-01-13**: Added compound: Ethylene Glycol
 - **2026-01-14**: Added compound: Propylene
+- **2026-01-14 01:04:17**: Updated 4 energy prices, 8 stocks, 0 FRED series

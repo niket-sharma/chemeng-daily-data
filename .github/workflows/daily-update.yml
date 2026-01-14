@@ -1,32 +1,58 @@
-name: Daily Chemical Engineering Data Update
+name: Daily Chemical Price Update
 
 on:
   schedule:
-    # Runs at 9:00 AM UTC every day
-    - cron: '0 9 * * *'
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 14 * * *'  # 2 PM UTC (after US markets close)
+  workflow_dispatch:  # Allows manual trigger
+
+permissions:
+  contents: write
 
 jobs:
-  update:
+  update-prices:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Run daily update script
-        run: python scripts/daily_update.py
-
-      - name: Commit and push changes
+      - name: Install dependencies
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Daily data update - $(date +'%Y-%m-%d')" && git push)
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run price update
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
+        run: |
+          python scripts/daily_price_update.py
+
+      - name: Generate visualizations
+        run: |
+          python scripts/generate_charts.py || echo "Visualization generation skipped"
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "sharma.niket@gmail.com"
+          git config --local user.name "Niket Sharma"
+
+      - name: Commit and push
+        run: |
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily price update: $(date +'%Y-%m-%d')"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}

@@ -1,87 +1,66 @@
-# Chemical Engineering Daily Data Repository
+# Chemical Commodity Price Tracker
 
-A growing collection of chemical engineering reference data, updated automatically every day.
+Automated daily tracking of chemical commodity prices and chemical company stocks.
 
-## Contents
+## Latest Prices (Updated: 2026-01-14)
 
-- **Compounds**: Physical properties of common industrial chemicals
-- **Correlations**: Important engineering equations and correlations
-- **Constants**: Fundamental values and engineering constants
+### Energy Commodities
+
+| Commodity | Price | Change (24h) | Unit |
+|-----------|-------|--------------|------|
+| WTI Crude Oil | $60.93 | -0.22 (-0.36%) | $/barrel |
+| Brent Crude Oil | $65.25 | -0.22 (-0.34%) | $/barrel |
+| Natural Gas | $3.40 | -0.01 (-0.44%) | $/MMBtu |
+| Heating Oil | $2.22 | -0.01 (-0.62%) | $/gallon |
+
+### Chemical Company Stocks
+
+| Company | Ticker | Price | Change (24h) |
+|---------|--------|-------|--------------|
+| Dow Inc. | DOW | $26.55 | +0.05 (+0.19%) |
+| LyondellBasell | LYB | $48.67 | +0.47 (+0.98%) |
+| DuPont | DD | $43.79 | +0.36 (+0.83%) |
+| Air Products | APD | $266.18 | -0.86 (-0.32%) |
+| Linde | LIN | $442.90 | -0.73 (-0.16%) |
+| Eastman Chemical | EMN | $68.07 | -0.33 (-0.48%) |
+| Celanese | CE | $45.88 | +0.24 (+0.53%) |
+| Huntsman | HUN | $11.36 | -0.15 (-1.30%) |
 
 ## Data Sources
 
-Data compiled from Perry's Chemical Engineers' Handbook, CRC Handbook, NIST, and other authoritative sources.
+- **Yahoo Finance** - Stock prices and commodity futures
+- **FRED** - Federal Reserve Economic Data (when API key configured)
+- **Alpha Vantage** - Additional commodity data (when API key configured)
 
-## Automation
-
-This repository updates daily via GitHub Actions, adding one new data point each day to maintain consistent GitHub activity.
-
-## Usage
-
-```python
-import json
-
-# Load compound data
-with open('data/compounds.json') as f:
-    compounds = json.load(f)
-
-# Import correlations
-from data.experiment_correlations import *
-
-# Import constants
-from data.experiment_constants import *
-```
-
-## Statistics
-
-- Started: 2026-01-12
-- Total entries: Check [logs/update_log.md](logs/update_log.md)
-- Current queue size: 300 entries (enough for ~10 months of daily updates!)
-
-## Adding More Entries
-
-To add more entries to the queue, run:
-
-```bash
-python scripts/generate_entries.py
-```
-
-You can modify the script to add additional batches of compounds, correlations, or constants.
-
-## Manual Testing
-
-To test the daily update manually:
-
-```bash
-python scripts/daily_update.py
-```
-
-## Repository Structure
+## Project Structure
 
 ```
 chemeng-daily-data/
-├── README.md
 ├── data/
-│   ├── compounds.json          # Chemical compound properties
-│   ├── experiment_correlations.py  # Engineering equations
-│   └── experiment_constants.py      # Engineering constants and values
-├── queue/
-│   └── pending_entries.json    # Pre-generated queue of entries
+│   ├── prices/        # Category-specific historical data
+│   ├── latest/        # Today's snapshot
+│   └── historical/    # Daily archives by month
 ├── scripts/
-│   ├── daily_update.py         # Script that GitHub Actions runs
-│   └── generate_entries.py     # Script to add more entries to queue
-├── logs/
-│   └── update_log.md           # Track what was added and when
-└── .github/
-    └── workflows/
-        └── daily-update.yml    # GitHub Actions workflow
+│   ├── collectors/    # Data source collectors
+│   └── daily_price_update.py
+├── visualizations/    # Generated charts
+└── logs/              # Update logs
 ```
 
-## Author
+## Setup
 
-Niket Sharma - Chemical Process Simulation Engineer
-- GitHub: [@niket-sharma](https://github.com/niket-sharma)
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. (Optional) Set API keys for additional data sources:
+   - `FRED_API_KEY` - Get from https://fred.stlouisfed.org/docs/api/api_key.html
+   - `ALPHA_VANTAGE_API_KEY` - Get from https://www.alphavantage.co/support/#api-key
 
-## License
+## Automation
 
-This data is provided for educational and reference purposes.
+This repository updates daily via:
+- **GitHub Actions** - Runs at 2 PM UTC
+- **Local cron job** - Runs at midnight local time
+
+---
+
+*Data is collected for educational and research purposes.*

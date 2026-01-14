@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Local script to update the chemeng-daily-data repository
-# Run this manually or via cron to add one entry from the queue daily
+# Fetches daily chemical commodity prices and pushes to GitHub
 #
 
 set -e
@@ -15,15 +15,24 @@ log() {
 
 cd "$REPO_DIR"
 
-log "Starting daily update..."
+# Activate virtual environment if it exists
+if [ -d ".venv" ]; then
+    source .venv/bin/activate
+fi
+
+log "Starting daily price update..."
 
 # Pull latest changes first (autostash handles any local changes)
 log "Pulling latest changes..."
 git pull --rebase --autostash
 
-# Run the Python update script
-log "Running daily_update.py..."
-python3 scripts/daily_update.py
+# Run the price update script
+log "Running daily_price_update.py..."
+python3 scripts/daily_price_update.py
+
+# Generate visualizations (optional, may fail if matplotlib not installed)
+log "Generating visualizations..."
+python3 scripts/generate_charts.py || log "Visualization generation skipped"
 
 # Check if there are changes to commit
 if git diff --quiet && git diff --staged --quiet; then
@@ -34,7 +43,7 @@ fi
 # Stage, commit and push
 log "Committing changes..."
 git add .
-git commit -m "Daily data update - $(date '+%Y-%m-%d')"
+git commit -m "Daily price update: $(date '+%Y-%m-%d')"
 
 log "Pushing to remote..."
 git push
