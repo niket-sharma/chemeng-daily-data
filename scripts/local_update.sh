@@ -17,9 +17,9 @@ cd "$REPO_DIR"
 
 log "Starting daily update..."
 
-# Pull latest changes first
+# Pull latest changes first (autostash handles any local changes)
 log "Pulling latest changes..."
-git pull --rebase
+git pull --rebase --autostash
 
 # Run the Python update script
 log "Running daily_update.py..."
