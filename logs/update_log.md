@@ -13,3 +13,4 @@ Daily updates to the chemical engineering data repository.
 - **2026-01-14**: Added compound: Propylene
 - **2026-01-14 01:04:17**: Updated 4 energy prices, 8 stocks, 0 FRED series
 - **2026-01-14 14:17:33**: Updated 4 energy prices, 8 stocks, 0 FRED series
+- **2026-01-15 00:14:13**: Updated 4 energy prices, 8 stocks, 0 FRED series
