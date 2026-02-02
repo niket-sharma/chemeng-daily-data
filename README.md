@@ -14,14 +14,14 @@ Automated daily tracking of chemical commodity prices and chemical company stock
 
 | Company | Ticker | Price | Change (24h) |
 |---------|--------|-------|--------------|
-| Dow Inc. | DOW | $27.55 | +0.39 (+1.44%) |
-| LyondellBasell | LYB | $49.00 | -0.95 (-1.90%) |
-| DuPont | DD | $43.92 | -0.68 (-1.52%) |
-| Air Products | APD | $272.50 | +16.48 (+6.44%) |
-| Linde | LIN | $456.97 | +1.97 (+0.43%) |
-| Eastman Chemical | EMN | $69.32 | +0.33 (+0.48%) |
-| Celanese | CE | $44.44 | -1.00 (-2.20%) |
-| Huntsman | HUN | $10.82 | -0.36 (-3.22%) |
+| Dow Inc. | DOW | $27.81 | +0.26 (+0.96%) |
+| LyondellBasell | LYB | $48.18 | -0.82 (-1.67%) |
+| DuPont | DD | $44.06 | +0.14 (+0.31%) |
+| Air Products | APD | $272.27 | -0.23 (-0.08%) |
+| Linde | LIN | $461.71 | +4.74 (+1.04%) |
+| Eastman Chemical | EMN | $68.60 | -0.72 (-1.05%) |
+| Celanese | CE | $44.02 | -0.42 (-0.95%) |
+| Huntsman | HUN | $10.96 | +0.14 (+1.29%) |
 
 ## Data Sources
 
