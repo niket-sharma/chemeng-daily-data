@@ -3048,5 +3048,66 @@
         "source": "yfinance"
       }
     }
+  },
+  {
+    "date": "2026-02-12",
+    "data": {
+      "DOW": {
+        "name": "Dow Inc.",
+        "price": 34.36,
+        "change_1d": 0.36,
+        "change_pct": 1.06,
+        "source": "yfinance"
+      },
+      "LYB": {
+        "name": "LyondellBasell",
+        "price": 60.29,
+        "change_1d": 0.82,
+        "change_pct": 1.39,
+        "source": "yfinance"
+      },
+      "DD": {
+        "name": "DuPont",
+        "price": 52.64,
+        "change_1d": 1.11,
+        "change_pct": 2.15,
+        "source": "yfinance"
+      },
+      "APD": {
+        "name": "Air Products",
+        "price": 296.17,
+        "change_1d": 3.03,
+        "change_pct": 1.03,
+        "source": "yfinance"
+      },
+      "LIN": {
+        "name": "Linde",
+        "price": 471.63,
+        "change_1d": 4.12,
+        "change_pct": 0.88,
+        "source": "yfinance"
+      },
+      "EMN": {
+        "name": "Eastman Chemical",
+        "price": 83.22,
+        "change_1d": 1.86,
+        "change_pct": 2.29,
+        "source": "yfinance"
+      },
+      "CE": {
+        "name": "Celanese",
+        "price": 61.5,
+        "change_1d": 0.94,
+        "change_pct": 1.55,
+        "source": "yfinance"
+      },
+      "HUN": {
+        "name": "Huntsman",
+        "price": 14.35,
+        "change_1d": 0.28,
+        "change_pct": 2.03,
+        "source": "yfinance"
+      }
+    }
   }
 ]
