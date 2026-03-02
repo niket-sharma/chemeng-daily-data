@@ -8,10 +8,10 @@ Automated daily tracking of chemical commodity prices and chemical company stock
 
 | Commodity | Price | Change (24h) | Unit |
 |-----------|-------|--------------|------|
-| WTI Crude Oil | $71.16 | +0.00 (+0.00%) | $/barrel |
-| Brent Crude Oil | $77.55 | +0.00 (+0.00%) | $/barrel |
-| Natural Gas | $2.90 | +0.00 (+0.00%) | $/MMBtu |
-| Heating Oil | $2.83 | +0.00 (+0.00%) | $/gallon |
+| WTI Crude Oil | $72.01 | +0.00 (+0.00%) | $/barrel |
+| Brent Crude Oil | $79.03 | +0.00 (+0.00%) | $/barrel |
+| Natural Gas | $3.00 | +0.00 (+0.00%) | $/MMBtu |
+| Heating Oil | $2.76 | +0.00 (+0.00%) | $/gallon |
 
 ### Chemical Company Stocks
 
