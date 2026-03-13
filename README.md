@@ -8,23 +8,23 @@ Automated daily tracking of chemical commodity prices and chemical company stock
 
 | Commodity | Price | Change (24h) | Unit |
 |-----------|-------|--------------|------|
-| WTI Crude Oil | $95.73 | +0.00 (+0.00%) | $/barrel |
-| Brent Crude Oil | $100.46 | +0.00 (+0.00%) | $/barrel |
-| Natural Gas | $3.23 | +0.00 (+0.00%) | $/MMBtu |
-| Heating Oil | $3.90 | +0.00 (+0.00%) | $/gallon |
+| WTI Crude Oil | $94.61 | -1.12 (-1.17%) | $/barrel |
+| Brent Crude Oil | $100.00 | -0.46 (-0.46%) | $/barrel |
+| Natural Gas | $3.16 | -0.08 (-2.35%) | $/MMBtu |
+| Heating Oil | $3.32 | -0.57 (-14.72%) | $/gallon |
 
 ### Chemical Company Stocks
 
 | Company | Ticker | Price | Change (24h) |
 |---------|--------|-------|--------------|
-| Dow Inc. | DOW | $37.58 | +3.21 (+9.34%) |
-| LyondellBasell | LYB | $74.33 | +6.96 (+10.33%) |
-| DuPont | DD | $45.34 | -0.65 (-1.41%) |
-| Air Products | APD | $290.48 | +12.79 (+4.61%) |
-| Linde | LIN | $490.41 | +8.86 (+1.84%) |
-| Eastman Chemical | EMN | $70.59 | +2.87 (+4.24%) |
-| Celanese | CE | $59.60 | +7.66 (+14.75%) |
-| Huntsman | HUN | $12.80 | +1.05 (+8.94%) |
+| Dow Inc. | DOW | $37.16 | -0.42 (-1.12%) |
+| LyondellBasell | LYB | $72.58 | -1.75 (-2.35%) |
+| DuPont | DD | $45.35 | +0.01 (+0.02%) |
+| Air Products | APD | $292.83 | +2.35 (+0.81%) |
+| Linde | LIN | $495.70 | +5.29 (+1.08%) |
+| Eastman Chemical | EMN | $70.68 | +0.09 (+0.13%) |
+| Celanese | CE | $59.09 | -0.51 (-0.86%) |
+| Huntsman | HUN | $12.23 | -0.57 (-4.45%) |
 
 ## Data Sources
 
