@@ -1,62 +1,95 @@
 {
   "date": "2026-04-20",
-  "timestamp": "2026-04-20T00:02:15.065417",
-  "energy": {},
+  "timestamp": "2026-04-20T14:32:13.980223",
+  "energy": {
+    "wti_crude_oil": {
+      "name": "WTI Crude Oil",
+      "price": 86.09,
+      "unit": "$/barrel",
+      "change_1d": 0.0,
+      "change_pct": 0.0,
+      "source": "yfinance"
+    },
+    "brent_crude_oil": {
+      "name": "Brent Crude Oil",
+      "price": 94.16,
+      "unit": "$/barrel",
+      "change_1d": 0.0,
+      "change_pct": 0.0,
+      "source": "yfinance"
+    },
+    "natural_gas": {
+      "name": "Natural Gas",
+      "price": 2.68,
+      "unit": "$/MMBtu",
+      "change_1d": 0.0,
+      "change_pct": 0.0,
+      "source": "yfinance"
+    },
+    "heating_oil": {
+      "name": "Heating Oil",
+      "price": 3.42,
+      "unit": "$/gallon",
+      "change_1d": 0.0,
+      "change_pct": 0.0,
+      "source": "yfinance"
+    }
+  },
   "stocks": {
     "DOW": {
       "name": "Dow Inc.",
-      "price": 35.6,
-      "change_1d": -4.32,
-      "change_pct": -10.82,
+      "price": 36.49,
+      "change_1d": 0.9,
+      "change_pct": 2.51,
       "source": "yfinance"
     },
     "LYB": {
       "name": "LyondellBasell",
-      "price": 66.27,
-      "change_1d": -9.02,
-      "change_pct": -11.98,
+      "price": 67.52,
+      "change_1d": 1.25,
+      "change_pct": 1.89,
       "source": "yfinance"
     },
     "DD": {
       "name": "DuPont",
-      "price": 47.35,
-      "change_1d": 0.6,
-      "change_pct": 1.28,
+      "price": 47.42,
+      "change_1d": 0.08,
+      "change_pct": 0.16,
       "source": "yfinance"
     },
     "APD": {
       "name": "Air Products",
-      "price": 291.81,
-      "change_1d": -5.43,
-      "change_pct": -1.83,
+      "price": 297.28,
+      "change_1d": 5.47,
+      "change_pct": 1.87,
       "source": "yfinance"
     },
     "LIN": {
       "name": "Linde",
-      "price": 492.23,
-      "change_1d": -6.99,
-      "change_pct": -1.4,
+      "price": 500.08,
+      "change_1d": 7.85,
+      "change_pct": 1.59,
       "source": "yfinance"
     },
     "EMN": {
       "name": "Eastman Chemical",
-      "price": 73.78,
-      "change_1d": 0.43,
-      "change_pct": 0.59,
+      "price": 73.48,
+      "change_1d": -0.3,
+      "change_pct": -0.41,
       "source": "yfinance"
     },
     "CE": {
       "name": "Celanese",
-      "price": 62.03,
-      "change_1d": -6.31,
-      "change_pct": -9.23,
+      "price": 63.76,
+      "change_1d": 1.73,
+      "change_pct": 2.79,
       "source": "yfinance"
     },
     "HUN": {
       "name": "Huntsman",
-      "price": 13.35,
-      "change_1d": -0.39,
-      "change_pct": -2.84,
+      "price": 13.71,
+      "change_1d": 0.36,
+      "change_pct": 2.7,
       "source": "yfinance"
     }
   },
