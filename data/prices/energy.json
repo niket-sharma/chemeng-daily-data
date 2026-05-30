@@ -8064,5 +8064,42 @@
         "source": "yfinance"
       }
     }
+  },
+  {
+    "date": "2026-05-30",
+    "data": {
+      "wti_crude_oil": {
+        "name": "WTI Crude Oil",
+        "price": 87.36,
+        "unit": "$/barrel",
+        "change_1d": -1.54,
+        "change_pct": -1.73,
+        "source": "yfinance"
+      },
+      "brent_crude_oil": {
+        "name": "Brent Crude Oil",
+        "price": 92.05,
+        "unit": "$/barrel",
+        "change_1d": -1.66,
+        "change_pct": -1.77,
+        "source": "yfinance"
+      },
+      "natural_gas": {
+        "name": "Natural Gas",
+        "price": 3.29,
+        "unit": "$/MMBtu",
+        "change_1d": 0.0,
+        "change_pct": 0.15,
+        "source": "yfinance"
+      },
+      "heating_oil": {
+        "name": "Heating Oil",
+        "price": 3.54,
+        "unit": "$/gallon",
+        "change_1d": -0.08,
+        "change_pct": -2.25,
+        "source": "yfinance"
+      }
+    }
   }
 ]
