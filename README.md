@@ -2,7 +2,7 @@
 
 Automated daily tracking of chemical commodity prices and chemical company stocks.
 
-## Latest Prices (Updated: 2026-06-20)
+## Latest Prices (Updated: 2026-06-21)
 
 ### Energy Commodities
 
