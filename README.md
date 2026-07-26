@@ -2,16 +2,16 @@
 
 Automated daily tracking of chemical commodity prices and chemical company stocks.
 
-## Latest Prices (Updated: 2026-07-25)
+## Latest Prices (Updated: 2026-07-26)
 
 ### Energy Commodities
 
 | Commodity | Price | Change (24h) | Unit |
 |-----------|-------|--------------|------|
-| WTI Crude Oil | $89.31 | -2.88 (-3.12%) | $/barrel |
-| Brent Crude Oil | $96.78 | -3.91 (-3.88%) | $/barrel |
-| Natural Gas | $2.87 | -0.04 (-1.54%) | $/MMBtu |
-| Heating Oil | $4.18 | -0.16 (-3.71%) | $/gallon |
+| WTI Crude Oil | $89.31 | +0.00 (+0.00%) | $/barrel |
+| Brent Crude Oil | $96.78 | +0.00 (+0.00%) | $/barrel |
+| Natural Gas | $2.89 | +0.00 (+0.00%) | $/MMBtu |
+| Heating Oil | $4.10 | +0.00 (+0.00%) | $/gallon |
 
 ### Chemical Company Stocks
 
@@ -24,7 +24,7 @@ Automated daily tracking of chemical commodity prices and chemical company stock
 | Linde | LIN | $512.28 | +5.96 (+1.18%) |
 | Eastman Chemical | EMN | $68.20 | +0.28 (+0.41%) |
 | Celanese | CE | $46.43 | -0.92 (-1.94%) |
-| Huntsman | HUN | $12.80 | -0.01 (-0.08%) |
+| Huntsman | HUN | $nan | +nan (+nan%) |
 
 ## Data Sources
 
