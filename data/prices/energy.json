@@ -1,42 +1,5 @@
 [
   {
-    "date": "2026-02-04",
-    "data": {
-      "wti_crude_oil": {
-        "name": "WTI Crude Oil",
-        "price": 63.18,
-        "unit": "$/barrel",
-        "change_1d": -0.03,
-        "change_pct": -0.05,
-        "source": "yfinance"
-      },
-      "brent_crude_oil": {
-        "name": "Brent Crude Oil",
-        "price": 67.37,
-        "unit": "$/barrel",
-        "change_1d": 0.04,
-        "change_pct": 0.06,
-        "source": "yfinance"
-      },
-      "natural_gas": {
-        "name": "Natural Gas",
-        "price": 3.53,
-        "unit": "$/MMBtu",
-        "change_1d": 0.22,
-        "change_pct": 6.55,
-        "source": "yfinance"
-      },
-      "heating_oil": {
-        "name": "Heating Oil",
-        "price": 2.41,
-        "unit": "$/gallon",
-        "change_1d": 0.0,
-        "change_pct": 0.15,
-        "source": "yfinance"
-      }
-    }
-  },
-  {
     "date": "2026-02-05",
     "data": {
       "wti_crude_oil": {
@@ -13489,6 +13452,43 @@
       "heating_oil": {
         "name": "Heating Oil",
         "price": 4.79,
+        "unit": "$/gallon",
+        "change_1d": 0.0,
+        "change_pct": 0.0,
+        "source": "yfinance"
+      }
+    }
+  },
+  {
+    "date": "2026-10-26",
+    "data": {
+      "wti_crude_oil": {
+        "name": "WTI Crude Oil",
+        "price": 102.32,
+        "unit": "$/barrel",
+        "change_1d": 0.0,
+        "change_pct": 0.0,
+        "source": "yfinance"
+      },
+      "brent_crude_oil": {
+        "name": "Brent Crude Oil",
+        "price": 111.22,
+        "unit": "$/barrel",
+        "change_1d": 0.0,
+        "change_pct": 0.0,
+        "source": "yfinance"
+      },
+      "natural_gas": {
+        "name": "Natural Gas",
+        "price": 3.04,
+        "unit": "$/MMBtu",
+        "change_1d": 0.0,
+        "change_pct": 0.0,
+        "source": "yfinance"
+      },
+      "heating_oil": {
+        "name": "Heating Oil",
+        "price": 4.75,
         "unit": "$/gallon",
         "change_1d": 0.0,
         "change_pct": 0.0,
