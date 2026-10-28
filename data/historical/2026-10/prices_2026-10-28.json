@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-28",
+  "timestamp": "2026-10-28T19:11:07.141977",
+  "energy": {
+    "wti_crude_oil": {
+      "name": "WTI Crude Oil",
+      "price": 102.97,
+      "unit": "$/barrel",
+      "change_1d": 3.07,
+      "change_pct": 3.07,
+      "source": "yfinance"
+    },
+    "brent_crude_oil": {
+      "name": "Brent Crude Oil",
+      "price": 111.81,
+      "unit": "$/barrel",
+      "change_1d": -2.07,
+      "change_pct": -1.82,
+      "source": "yfinance"
+    },
+    "natural_gas": {
+      "name": "Natural Gas",
+      "price": 3.02,
+      "unit": "$/MMBtu",
+      "change_1d": 0.33,
+      "change_pct": 12.12,
+      "source": "yfinance"
+    },
+    "heating_oil": {
+      "name": "Heating Oil",
+      "price": 4.67,
+      "unit": "$/gallon",
+      "change_1d": -0.1,
+      "change_pct": -2.14,
+      "source": "yfinance"
+    }
+  },
+  "stocks": {
+    "DOW": {
+      "name": "Dow Inc.",
+      "price": 33.76,
+      "change_1d": -0.01,
+      "change_pct": -0.04,
+      "source": "yfinance"
+    },
+    "LYB": {
+      "name": "LyondellBasell",
+      "price": 66.93,
+      "change_1d": -0.5,
+      "change_pct": -0.74,
+      "source": "yfinance"
+    },
+    "DD": {
+      "name": "DuPont",
+      "price": 137.89,
+      "change_1d": 0.22,
+      "change_pct": 0.16,
+      "source": "yfinance"
+    },
+    "APD": {
+      "name": "Air Products",
+      "price": 306.08,
+      "change_1d": -1.03,
+      "change_pct": -0.34,
+      "source": "yfinance"
+    },
+    "LIN": {
+      "name": "Linde",
+      "price": 505.53,
+      "change_1d": -3.12,
+      "change_pct": -0.61,
+      "source": "yfinance"
+    },
+    "EMN": {
+      "name": "Eastman Chemical",
+      "price": 66.09,
+      "change_1d": -0.03,
+      "change_pct": -0.05,
+      "source": "yfinance"
+    },
+    "CE": {
+      "name": "Celanese",
+      "price": 48.26,
+      "change_1d": -0.37,
+      "change_pct": -0.76,
+      "source": "yfinance"
+    },
+    "HUN": {
+      "name": "Huntsman",
+      "price": 8.95,
+      "change_1d": -0.16,
+      "change_pct": -1.81,
+      "source": "yfinance"
+    }
+  },
+  "fred": {}
+}
