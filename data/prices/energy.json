@@ -37,43 +37,6 @@
     }
   },
   {
-    "date": "2026-02-07",
-    "data": {
-      "wti_crude_oil": {
-        "name": "WTI Crude Oil",
-        "price": 63.55,
-        "unit": "$/barrel",
-        "change_1d": 0.26,
-        "change_pct": 0.41,
-        "source": "yfinance"
-      },
-      "brent_crude_oil": {
-        "name": "Brent Crude Oil",
-        "price": 68.05,
-        "unit": "$/barrel",
-        "change_1d": 0.5,
-        "change_pct": 0.74,
-        "source": "yfinance"
-      },
-      "natural_gas": {
-        "name": "Natural Gas",
-        "price": 3.42,
-        "unit": "$/MMBtu",
-        "change_1d": -0.09,
-        "change_pct": -2.48,
-        "source": "yfinance"
-      },
-      "heating_oil": {
-        "name": "Heating Oil",
-        "price": 2.41,
-        "unit": "$/gallon",
-        "change_1d": 0.02,
-        "change_pct": 0.84,
-        "source": "yfinance"
-      }
-    }
-  },
-  {
     "date": "2026-02-08",
     "data": {
       "wti_crude_oil": {
@@ -13492,6 +13455,43 @@
         "unit": "$/gallon",
         "change_1d": -0.24,
         "change_pct": -5.04,
+        "source": "yfinance"
+      }
+    }
+  },
+  {
+    "date": "2026-10-30",
+    "data": {
+      "wti_crude_oil": {
+        "name": "WTI Crude Oil",
+        "price": 104.54,
+        "unit": "$/barrel",
+        "change_1d": 2.54,
+        "change_pct": 2.49,
+        "source": "yfinance"
+      },
+      "brent_crude_oil": {
+        "name": "Brent Crude Oil",
+        "price": 113.38,
+        "unit": "$/barrel",
+        "change_1d": -1.5,
+        "change_pct": -1.31,
+        "source": "yfinance"
+      },
+      "natural_gas": {
+        "name": "Natural Gas",
+        "price": 2.9,
+        "unit": "$/MMBtu",
+        "change_1d": -0.05,
+        "change_pct": -1.69,
+        "source": "yfinance"
+      },
+      "heating_oil": {
+        "name": "Heating Oil",
+        "price": 4.69,
+        "unit": "$/gallon",
+        "change_1d": -0.05,
+        "change_pct": -1.05,
         "source": "yfinance"
       }
     }
