@@ -4,43 +4,6 @@
     "data": {
       "wti_crude_oil": {
         "name": "WTI Crude Oil",
-        "price": 64.46,
-        "unit": "$/barrel",
-        "change_1d": 0.0,
-        "change_pct": 0.0,
-        "source": "yfinance"
-      },
-      "brent_crude_oil": {
-        "name": "Brent Crude Oil",
-        "price": 69.29,
-        "unit": "$/barrel",
-        "change_1d": 0.0,
-        "change_pct": 0.0,
-        "source": "yfinance"
-      },
-      "natural_gas": {
-        "name": "Natural Gas",
-        "price": 3.12,
-        "unit": "$/MMBtu",
-        "change_1d": 0.0,
-        "change_pct": 0.0,
-        "source": "yfinance"
-      },
-      "heating_oil": {
-        "name": "Heating Oil",
-        "price": 2.41,
-        "unit": "$/gallon",
-        "change_1d": 0.0,
-        "change_pct": 0.0,
-        "source": "yfinance"
-      }
-    }
-  },
-  {
-    "date": "2026-02-11",
-    "data": {
-      "wti_crude_oil": {
-        "name": "WTI Crude Oil",
         "price": 65.77,
         "unit": "$/barrel",
         "change_1d": 1.81,
@@ -13492,6 +13455,43 @@
         "unit": "$/gallon",
         "change_1d": 0.15,
         "change_pct": 3.47,
+        "source": "yfinance"
+      }
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "data": {
+      "wti_crude_oil": {
+        "name": "WTI Crude Oil",
+        "price": 90.97,
+        "unit": "$/barrel",
+        "change_1d": 0.45,
+        "change_pct": 0.5,
+        "source": "yfinance"
+      },
+      "brent_crude_oil": {
+        "name": "Brent Crude Oil",
+        "price": 98.41,
+        "unit": "$/barrel",
+        "change_1d": 0.12,
+        "change_pct": 0.12,
+        "source": "yfinance"
+      },
+      "natural_gas": {
+        "name": "Natural Gas",
+        "price": 2.99,
+        "unit": "$/MMBtu",
+        "change_1d": 0.05,
+        "change_pct": 1.56,
+        "source": "yfinance"
+      },
+      "heating_oil": {
+        "name": "Heating Oil",
+        "price": 4.35,
+        "unit": "$/gallon",
+        "change_1d": -0.0,
+        "change_pct": -0.03,
         "source": "yfinance"
       }
     }
