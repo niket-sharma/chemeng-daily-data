@@ -2,22 +2,22 @@
 
 Automated daily tracking of chemical commodity prices and chemical company stocks.
 
-## Latest Prices (Updated: 2026-11-19)
+## Latest Prices (Updated: 2026-11-20)
 
 ### Energy Commodities
 
 | Commodity | Price | Change (24h) | Unit |
 |-----------|-------|--------------|------|
-| WTI Crude Oil | $83.19 | -0.07 (-0.08%) | $/barrel |
-| Brent Crude Oil | $90.16 | -1.79 (-1.95%) | $/barrel |
-| Natural Gas | $3.25 | -0.12 (-3.68%) | $/MMBtu |
-| Heating Oil | $3.90 | -0.08 (-1.93%) | $/gallon |
+| WTI Crude Oil | $82.51 | -0.70 (-0.84%) | $/barrel |
+| Brent Crude Oil | $89.43 | -2.55 (-2.77%) | $/barrel |
+| Natural Gas | $3.22 | -0.04 (-1.38%) | $/MMBtu |
+| Heating Oil | $3.87 | -0.08 (-2.12%) | $/gallon |
 
 ### Chemical Company Stocks
 
 | Company | Ticker | Price | Change (24h) |
 |---------|--------|-------|--------------|
-| Dow Inc. | DOW | $30.25 | -0.12 (-0.40%) |
+| Dow Inc. | DOW | $nan | +nan (+nan%) |
 | LyondellBasell | LYB | $58.19 | -0.27 (-0.46%) |
 | DuPont | DD | $149.69 | -0.54 (-0.36%) |
 | Air Products | APD | $303.83 | -4.28 (-1.39%) |
