@@ -1,42 +1,5 @@
 [
   {
-    "date": "2026-02-27",
-    "data": {
-      "wti_crude_oil": {
-        "name": "WTI Crude Oil",
-        "price": 67.53,
-        "unit": "$/barrel",
-        "change_1d": 2.32,
-        "change_pct": 3.56,
-        "source": "yfinance"
-      },
-      "brent_crude_oil": {
-        "name": "Brent Crude Oil",
-        "price": 73.28,
-        "unit": "$/barrel",
-        "change_1d": 2.53,
-        "change_pct": 3.58,
-        "source": "yfinance"
-      },
-      "natural_gas": {
-        "name": "Natural Gas",
-        "price": 2.88,
-        "unit": "$/MMBtu",
-        "change_1d": 0.05,
-        "change_pct": 1.8,
-        "source": "yfinance"
-      },
-      "heating_oil": {
-        "name": "Heating Oil",
-        "price": 2.61,
-        "unit": "$/gallon",
-        "change_1d": -0.01,
-        "change_pct": -0.23,
-        "source": "yfinance"
-      }
-    }
-  },
-  {
     "date": "2026-02-28",
     "data": {
       "wti_crude_oil": {
@@ -13492,6 +13455,43 @@
         "unit": "$/gallon",
         "change_1d": -0.0,
         "change_pct": -0.05,
+        "source": "yfinance"
+      }
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "data": {
+      "wti_crude_oil": {
+        "name": "WTI Crude Oil",
+        "price": 83.08,
+        "unit": "$/barrel",
+        "change_1d": -0.6,
+        "change_pct": -0.72,
+        "source": "yfinance"
+      },
+      "brent_crude_oil": {
+        "name": "Brent Crude Oil",
+        "price": 90.84,
+        "unit": "$/barrel",
+        "change_1d": -3.77,
+        "change_pct": -3.98,
+        "source": "yfinance"
+      },
+      "natural_gas": {
+        "name": "Natural Gas",
+        "price": 3.49,
+        "unit": "$/MMBtu",
+        "change_1d": 0.22,
+        "change_pct": 6.79,
+        "source": "yfinance"
+      },
+      "heating_oil": {
+        "name": "Heating Oil",
+        "price": 3.68,
+        "unit": "$/gallon",
+        "change_1d": -0.03,
+        "change_pct": -0.74,
         "source": "yfinance"
       }
     }
